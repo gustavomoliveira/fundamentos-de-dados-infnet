@@ -29,7 +29,9 @@ import re
 def validar_descricao(txt):
     while True:
         entrada = input(txt)
-        if all(letra.isalpha() or letra.isspace() for letra in entrada):
+        if entrada == '0':
+            return entrada
+        elif all(letra.isalpha() or letra.isspace() for letra in entrada):
             return entrada
         else:
             print('Digite apenas letras/caracteres para a palavra ou frase.')
@@ -126,15 +128,15 @@ def adicionar_tarefa(tarefas):
         id = gerar_id(tarefas)
         
         print('\n====== Adicionar Tarefa ======')
-        descricao = validar_descricao('\nQual terefa deseja adicionar?(Digite "c" para cancelar.): ').lower()
-        if descricao == 'c':
+        descricao = validar_descricao('\nQual terefa deseja adicionar?(Digite "0" para cancelar.): ').lower()
+        if descricao == '0':
             print('\nAdição de tarefas encerrada.\n')
             break
         
         status = 'Pendente'
         
         urgencia = validar_urgencia(
-            'Essa tarefa é urgente?\n\n'
+            '\nEssa tarefa é urgente?\n\n'
             '====== Opções de Urgência ======\n'
             '[1] - Urgente\n'
             '[2] - Mediana\n'
@@ -144,10 +146,11 @@ def adicionar_tarefa(tarefas):
         
         criacao = gerar_data()
         
-        prazo_final = validar_prazo_final('\nQual o prazo final para essa tarefa ser concluída?(Formato dd/mm): ')
+        prazo_final = validar_prazo_final('\nQual o prazo final para essa tarefa ser concluída?(Formato dd/mm): \n')
         
-        nova_tarefa = [id, descricao.title(), status, urgencia, criacao, prazo_final ]
+        nova_tarefa = [id, descricao.title(), status, urgencia, criacao, prazo_final]
         tarefas.append(nova_tarefa)
+        print('Tarefa adicionada com sucesso!\n')
         listar_todas_tarefas(tarefas)
 
 def listar_tarefas_pendentes(tarefas):
