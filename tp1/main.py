@@ -1,32 +1,18 @@
-"""
-Você irá desenvolver um sistema de gestão de tarefas que permita ao usuário adicionar,
-listar, marcar como concluída e remover tarefas.
-O programa utilizará loops, manipulação de listas e funções para realizar essas operações.
-
-As tarefas a serem utilizadas poderão ter diferentes metadados: ID da tarefa,
-descrição, data de criação, status, prazo final, urgência, entre outros atributos... 
-
-Funcionalidades do Programa:
-
-Adicionar Tarefa: Permitir ao usuário adicionar uma nova tarefa à lista de tarefas pendentes.
-Listar Tarefas: Mostrar todas as tarefas pendentes na lista, enumerando-as.
-Marcar Tarefa como Concluída: Permitir ao usuário marcar uma tarefa específica como concluída.
-Remover Tarefa: Dar ao usuário a opção de remover uma tarefa da lista.
-
-Detalhes da Implementação:
-
-Utilize loops (for e/ou while) para apresentar um menu de opções ao usuário e realizar operações repetidas.
-Manipule uma lista para armazenar e gerenciar as tarefas, incluindo adicionar,
-listar, marcar como concluída e remover tarefas.
-Crie funções para cada funcionalidade do sistema (adicionar, listar, marcar como concluída,
-remover), utilizando argumentos, parâmetros por palavra-chave, parâmetros padrão e retorno de valores.
-Documente cada função utilizando DocStrings para descrever seu propósito, uso e parâmetros.
-"""
 
 from datetime import date
 import re
 
 def validar_descricao(txt):
+    """
+    Valida que 'entrada' receba apenas caracteres alfabéticos,
+    aceite espaços para o caso de strings compostas e o numeral 0.
+
+    Parâmetro:
+    - txt (str): A inserção por input() do usuário.
+
+    Retorno:
+    - str: Resultado validado da inserção do usuário.
+    """
     while True:
         entrada = input(txt)
         if entrada == '0':
@@ -36,10 +22,19 @@ def validar_descricao(txt):
         else:
             print('Digite apenas letras/caracteres para a palavra ou frase.')
 
-def validar_urgencia(num):
+def validar_urgencia(opcao):
+    """
+    Valida que 'urgencia' receba apenas um número int() entre 1 e 3.
+
+    Parâmetros:
+    - opcao (str): A inserção por input() do usuário.
+
+    Retorno:
+    - str: Resultado validado da inserção do usuário.
+    """
     while True:
         try:
-            urgencia = int(input(num))
+            urgencia = int(input(opcao))
             if urgencia == 1:
                 return 'Urgente'
             elif urgencia == 2:
@@ -51,18 +46,58 @@ def validar_urgencia(num):
         except ValueError:
             print('ERRO: Digite apenas números válidos entre as opções apresentadas.')
 
-def validar_opcao_numero(txt):
+def validar_menu(num):
+    """
+    Valida que 'numero' receba apenas um número int() entre 0 e 5.
+
+    Parâmetros:
+    - num (str): A inserção por input() do usuário.
+
+    Retorno:
+    - str: Resultado validado da inserção do usuário.
+    """
     while True:
         try:
-            numero = int(input(txt))
+            numero = int(input(num))
+            if 0 <= numero <= 5:
+                return numero
+            else:
+                print('Digite uma das opções do Menu.')
+        except ValueError:
+            print('ERRO: Digite um número válido.')
+
+def validar_opcao_numero(num):
+    """
+    Valida que 'numero' receba apenas um número int().
+
+    Parâmetros:
+    - num (str): A inserção por input() do usuário.
+
+    Retorno:
+    - str: Resultado validado da inserção do usuário.
+    """
+    while True:
+        try:
+            numero = int(input(num))
             return numero
         except ValueError:
             print('ERRO: Digite um número de Id.')
 
-def validar_prazo_final(txt):
+def validar_prazo_final(prazo):
+    """
+    Valida que 'prazo_final' possua o formato exato de dd/mm, seguindo, também, as
+    regras de intervalo de números e comparação com 'data_atual'.
+
+    Parâmetros:
+    - prazo(str): A inserção por input() do usuário.
+
+    Retorno:
+    - str: Resultado validado da inserção do usuário.
+
+    """
     data_atual = gerar_data()
     while True:
-        prazo_final = input(txt)
+        prazo_final = input(prazo)
         if not re.fullmatch(r"\d{2}/\d{2}", prazo_final):
             print("ERRO: Formato inválido. Use dd/mm.")
             continue
@@ -81,6 +116,17 @@ def validar_prazo_final(txt):
         return prazo_final
 
 def gerar_id(tarefas):
+    """
+    Gera um número int() maior que o comprimento da lista passada como parâmetro.
+
+    Caso o número já exista nessa lista, o mesmo é acrescido de 1.
+
+    Parâmetros:
+    - tarefas([]): Uma lista.
+
+    Retorno:
+    - []: Uma lista aninha de mais listas.
+    """
     id = len(tarefas) + 1
     for index in tarefas:
         if id == index[0]:
@@ -88,14 +134,26 @@ def gerar_id(tarefas):
     return id
 
 def gerar_data():
+    """
+    Gera a data atual no formato dd/mm.
+
+    Retorno:
+    - str: Data dd/mm formatada.
+    """
     hoje = date.today()
     dia = hoje.day
     mes = hoje.month
     return f'{dia:02d}/{mes:02d}'
 
 def menu(tarefas):
+    """ 
+    Exibe um menu interativo com opções de seleção numérica de 0 a 5.
+
+    Parâmetros:
+    - tarefas([]): Uma lista.
+    """
     while True:
-        opcao_menu = validar_opcao_numero(
+        opcao_menu = validar_menu(
             '====== Gerenciador de Tarefas ======\n'
             '[1] - Adicionar Tarefa\n'
             '[2] - Listar Tarefas Pendentes\n'
@@ -124,11 +182,18 @@ def menu(tarefas):
                 print('Opção inválida.')
 
 def adicionar_tarefa(tarefas):
+    """
+    Aninha uma lista 'nova_tarefa' composta por 'id', 'descricao', 'status', 'urgencia', 'criacao' e 'prazo_final'
+    a lista recebida por parâmetro como referência.
+
+    Parâmetros:
+    - tarefas([]): Uma lista.
+    """
     while True:
         id = gerar_id(tarefas)
         
         print('\n====== Adicionar Tarefa ======')
-        descricao = validar_descricao('\nQual terefa deseja adicionar?(Digite "0" para cancelar.): ').lower()
+        descricao = validar_descricao('\nQual terefa deseja adicionar?(Digite "0" para cancelar.): ')
         if descricao == '0':
             print('\nAdição de tarefas encerrada.\n')
             break
@@ -150,10 +215,18 @@ def adicionar_tarefa(tarefas):
         
         nova_tarefa = [id, descricao.title(), status, urgencia, criacao, prazo_final]
         tarefas.append(nova_tarefa)
-        print('Tarefa adicionada com sucesso!\n')
+        print('\nTarefa adicionada com sucesso!')
         listar_todas_tarefas(tarefas)
 
 def listar_tarefas_pendentes(tarefas):
+    """
+    Exibe todas as tarefas com status 'pendente' na lista passada por parâmetro.
+
+    Se não houver tarefas pendentes, exibe mensagem informando.
+
+    Parâmetros:
+    - tarefas([]): Uma lista.
+    """
     print('\n====== Tarefas Pendentes ======')
     posicao = 0
     encontrou_pendente = False
@@ -174,6 +247,12 @@ def listar_tarefas_pendentes(tarefas):
         print('\nNão existem tarefas pendentes!\n')
 
 def listar_todas_tarefas(tarefas):
+    """
+    Exibe todas as tarefas na lista passada por parâmetro, independente de seus status.
+
+    Parâmetros:
+    - tarefas([]): Uma lista.
+    """
     print('\nEssas são todas as suas tarefas, ordenadas por status: ')
 
     print('\n====== Pendentes ======')
@@ -196,6 +275,13 @@ def listar_todas_tarefas(tarefas):
             print()
 
 def marcar_conclusao(tarefas):
+    """
+    Altera o status de 'Pendente' para 'Concluída' de tarefas selecionadas via id pelo usuário
+    contidas em uma lista passada como parâmetro por referência.
+
+    Parâmetro:
+    - tarefas([]): Uma lista.
+    """
     while True:
         listar_tarefas_pendentes(tarefas)
         concluir = validar_opcao_numero('\nQual tarefa deseja marcar como concluída? Escolha pelo número do Id ou digite "0" para sair: ')
@@ -213,6 +299,13 @@ def marcar_conclusao(tarefas):
             print('\nERRO: Id inválido.\n')
 
 def remover_tarefa(tarefas):
+    """
+    Remove tarefas selecionadas via id pelo usuário
+    contidas em uma lista passada como parâmetro por referência.
+
+    Parâmetro:
+    - tarefas([]): Uma lista.
+    """
     while True:
         listar_tarefas_pendentes(tarefas)
         remover = validar_opcao_numero('\nQual tarefa deseja remover da lista? Escolha pelo número do Id ou digite "0" para sair: ')
@@ -229,10 +322,7 @@ def remover_tarefa(tarefas):
         else:
             print('ERRO: Id inválido.')
 
-# id, descrição, status, urgência, data da criação, prazo final
-tarefas = [[1, 'Lavar Louça', 'Concluída', 'Urgente', '03/11', '05/11']]
-id = gerar_id(tarefas)
-data = gerar_data()
+tarefas = []
 print('\nBem vindo ao Gerenciador de Tarefas! Escolha uma opção do Menu para iniciar.\n')
 menu(tarefas)
 
