@@ -9,5 +9,3 @@ df = pd.read_csv('copia_base.csv')
 # analisando a coluna 'states' do csv
 states = df['states'].value_counts()
 print(states)
-
-# 
