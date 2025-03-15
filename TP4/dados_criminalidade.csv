@@ -1,0 +1,1001 @@
+ID;Data;Tipo de Crime;Localização;Hora;Gravidade;Sexo do Suspeito;Idade do Suspeito;Status da Investigação
+1;2025-02-24;Sequestro;Freitas;04:09;Moderada;Não identificado;37;Arquivado
+2;2025-02-01;Roubo;Monteiro;00:33;Leve;Masculino;25;Sem suspeitos
+3;2023-08-05;Tráfico de Drogas;Lima Paulista;18:12;Grave;Feminino;36;Sem suspeitos
+4;2024-06-22;Estelionato;Moura de Goiás;10:45;Moderada;Feminino;48;Arquivado
+5;2024-10-22;Vandalismo;Carvalho de Azevedo;19:28;Crítica;Não identificado;30;Arquivado
+6;2025-02-03;Homicídio;Farias de Almeida;19:12;Leve;Não identificado;42;Concluído
+7;2024-07-17;Violência Doméstica;Moreira de Porto;02:27;Leve;Não identificado;54;Concluído
+8;2023-10-24;Violência Doméstica;Pinto de Lima;01:56;Crítica;Feminino;19;Em andamento
+9;2024-10-03;Estelionato;Moreira;12:36;Crítica;Não identificado;49;Concluído
+10;2024-05-07;Roubo;Rodrigues;12:59;Moderada;Feminino;58;Arquivado
+11;2024-08-19;Homicídio;Araújo da Prata;10:39;Crítica;Não identificado;34;Sem suspeitos
+12;2023-12-07;Sequestro;Rezende;16:57;Moderada;Feminino;26;Arquivado
+13;2024-06-19;Furto;Oliveira do Norte;18:37;Moderada;Feminino;62;Concluído
+14;2025-01-10;Vandalismo;Costela de Ribeiro;22:12;Moderada;Masculino;50;Sem suspeitos
+15;2024-02-16;Tráfico de Drogas;Correia;00:49;Grave;Masculino;16;Arquivado
+16;2023-08-24;Tráfico de Drogas;Cavalcanti;23:04;Crítica;Feminino;Desconhecida;Arquivado
+17;2023-11-15;Sequestro;Nunes;14:43;Grave;Feminino;17;Sem suspeitos
+18;2023-03-13;Tráfico de Drogas;Duarte da Praia;15:44;Grave;Feminino;35;Sem suspeitos
+19;2025-02-03;Estelionato;Fogaça da Prata;03:59;Crítica;Masculino;19;Concluído
+20;2024-10-15;Porte Ilegal de Arma;da Costa;12:03;Leve;Não identificado;28;Concluído
+21;2024-04-26;Sequestro;Rodrigues;18:11;Crítica;Masculino;Desconhecida;Sem suspeitos
+22;2024-08-28;Furto;Silveira;09:08;Crítica;Não identificado;32;Sem suspeitos
+23;2023-08-04;Agressão Física;Teixeira do Oeste;14:18;Grave;Masculino;Desconhecida;Sem suspeitos
+24;2024-09-04;Furto;Pinto de Farias;23:24;Leve;Feminino;41;Em andamento
+25;2024-03-17;Agressão Física;Silva de Goiás;03:15;Grave;Masculino;41;Arquivado
+26;2023-09-16;Agressão Física;da Mata do Sul;17:58;Grave;Masculino;33;Sem suspeitos
+27;2023-05-30;Violência Doméstica;Pinto de Souza;05:54;Crítica;Feminino;Desconhecida;Concluído
+28;2023-10-21;Homicídio;Novaes da Praia;07:19;Crítica;Feminino;41;Arquivado
+29;2023-09-26;Estelionato;Costela;22:20;Leve;Feminino;Desconhecida;Em andamento
+30;2024-04-08;Porte Ilegal de Arma;Peixoto;05:42;Grave;Masculino;42;Arquivado
+31;2023-04-20;Homicídio;Santos do Sul;00:48;Moderada;Masculino;Desconhecida;Sem suspeitos
+32;2023-07-06;Roubo;Carvalho;08:25;Crítica;Masculino;61;Sem suspeitos
+33;2024-02-11;Violência Doméstica;Barbosa do Norte;01:50;Moderada;Masculino;53;Concluído
+34;2024-09-01;Vandalismo;Rocha;21:53;Crítica;Feminino;31;Arquivado
+35;2024-11-10;Furto;Costa;04:00;Moderada;Masculino;54;Concluído
+36;2024-08-24;Roubo;Araújo das Flores;10:44;Crítica;Não identificado;45;Concluído
+37;2025-02-20;Porte Ilegal de Arma;Silveira de Minas;01:40;Moderada;Feminino;24;Concluído
+38;2024-08-08;Tráfico de Drogas;Cunha;14:12;Moderada;Masculino;Desconhecida;Sem suspeitos
+39;2023-04-20;Homicídio;Carvalho de das Neves;19:34;Moderada;Feminino;55;Arquivado
+40;2025-02-07;Sequestro;Mendes;20:47;Crítica;Feminino;Desconhecida;Arquivado
+41;2024-03-25;Estelionato;da Luz da Praia;09:36;Crítica;Não identificado;Desconhecida;Concluído
+42;2024-05-05;Furto;Nascimento;12:07;Grave;Masculino;Desconhecida;Em andamento
+43;2024-09-14;Agressão Física;da Rocha;23:22;Grave;Não identificado;Desconhecida;Em andamento
+44;2025-02-07;Agressão Física;Vieira Paulista;11:22;Moderada;Masculino;51;Arquivado
+45;2023-03-22;Vandalismo;Oliveira de Sales;23:37;Grave;Feminino;16;Sem suspeitos
+46;2023-05-08;Tráfico de Drogas;Jesus;16:48;Leve;Não identificado;62;Sem suspeitos
+47;2023-05-27;Porte Ilegal de Arma;Cardoso da Prata;10:16;Grave;Não identificado;50;Arquivado
+48;2025-01-21;Roubo;Santos;13:54;Grave;Feminino;38;Sem suspeitos
+49;2023-11-18;Homicídio;Sales dos Dourados;21:48;Crítica;Masculino;44;Sem suspeitos
+50;2023-05-07;Violência Doméstica;Viana de Peixoto;19:17;Grave;Não identificado;45;Sem suspeitos
+51;2024-02-22;Furto;Pereira da Serra;02:03;Grave;Não identificado;62;Arquivado
+52;2024-03-24;Porte Ilegal de Arma;Ferreira;07:13;Crítica;Não identificado;57;Sem suspeitos
+53;2023-09-30;Agressão Física;Carvalho Alegre;09:38;Leve;Não identificado;42;Arquivado
+54;2023-10-24;Furto;Barros de Farias;22:10;Grave;Masculino;41;Em andamento
+55;2024-09-24;Violência Doméstica;Cavalcanti do Oeste;15:46;Moderada;Masculino;18;Concluído
+56;2023-12-07;Tráfico de Drogas;Silva;03:31;Grave;Feminino;Desconhecida;Em andamento
+57;2024-04-11;Tráfico de Drogas;Correia;03:25;Crítica;Masculino;Desconhecida;Arquivado
+58;2023-11-19;Sequestro;da Conceição Grande;23:05;Leve;Masculino;30;Concluído
+59;2023-06-11;Homicídio;Melo;19:35;Grave;Não identificado;17;Concluído
+60;2024-10-23;Estelionato;da Rocha do Norte;15:38;Crítica;Masculino;18;Arquivado
+61;2024-09-29;Tráfico de Drogas;Oliveira;19:52;Leve;Masculino;18;Sem suspeitos
+62;2023-03-27;Homicídio;Jesus;23:08;Grave;Não identificado;14;Em andamento
+63;2023-06-07;Roubo;Souza do Norte;11:38;Crítica;Feminino;Desconhecida;Em andamento
+64;2024-03-07;Estelionato;Pinto;19:06;Leve;Feminino;23;Sem suspeitos
+65;2024-03-08;Porte Ilegal de Arma;Ramos;13:22;Moderada;Não identificado;24;Em andamento
+66;2023-11-17;Sequestro;Pereira;09:51;Moderada;Não identificado;34;Arquivado
+67;2025-01-03;Agressão Física;Pires;01:57;Grave;Masculino;45;Sem suspeitos
+68;2023-12-19;Violência Doméstica;Cunha;18:45;Leve;Masculino;20;Arquivado
+69;2025-02-06;Porte Ilegal de Arma;Gonçalves;18:08;Crítica;Masculino;28;Arquivado
+70;2023-05-25;Vandalismo;da Rosa;20:03;Grave;Masculino;15;Em andamento
+71;2024-01-30;Violência Doméstica;Campos de Goiás;08:50;Crítica;Não identificado;Desconhecida;Arquivado
+72;2024-10-27;Homicídio;Silva;07:27;Crítica;Não identificado;37;Sem suspeitos
+73;2023-07-04;Estelionato;Costa da Praia;22:41;Moderada;Feminino;Desconhecida;Em andamento
+74;2025-01-27;Violência Doméstica;Moura;20:16;Crítica;Feminino;19;Arquivado
+75;2024-07-16;Violência Doméstica;Novaes;15:04;Moderada;Feminino;Desconhecida;Em andamento
+76;2023-09-03;Estelionato;Nogueira;14:53;Leve;Feminino;57;Arquivado
+77;2023-05-15;Estelionato;Cardoso;11:45;Grave;Masculino;51;Arquivado
+78;2024-11-03;Porte Ilegal de Arma;Gonçalves;14:08;Grave;Não identificado;28;Em andamento
+79;2024-05-30;Sequestro;Duarte;04:55;Moderada;Masculino;43;Concluído
+80;2024-11-20;Roubo;Mendes Verde;06:32;Leve;Masculino;18;Concluído
+81;2024-11-11;Violência Doméstica;Correia;10:42;Leve;Feminino;14;Arquivado
+82;2025-01-29;Furto;da Cunha do Galho;19:04;Crítica;Masculino;54;Arquivado
+83;2024-03-30;Tráfico de Drogas;Porto;00:00;Crítica;Masculino;Desconhecida;Sem suspeitos
+84;2024-05-30;Homicídio;da Rosa do Sul;14:20;Crítica;Masculino;25;Em andamento
+85;2023-12-24;Violência Doméstica;Rodrigues de Costela;14:33;Leve;Masculino;33;Em andamento
+86;2024-04-23;Agressão Física;Vieira das Flores;12:10;Crítica;Feminino;28;Em andamento
+87;2023-06-08;Furto;Jesus;17:31;Moderada;Feminino;23;Arquivado
+88;2024-02-18;Homicídio;Freitas;15:32;Leve;Feminino;31;Em andamento
+89;2024-05-09;Agressão Física;Campos;21:01;Crítica;Masculino;38;Concluído
+90;2023-09-26;Porte Ilegal de Arma;Nunes;23:27;Crítica;Masculino;37;Em andamento
+91;2025-01-07;Tráfico de Drogas;Barros;23:37;Grave;Não identificado;22;Sem suspeitos
+92;2023-04-29;Vandalismo;Santos da Mata;10:28;Leve;Feminino;37;Em andamento
+93;2023-07-04;Agressão Física;Nascimento;16:08;Moderada;Masculino;37;Sem suspeitos
+94;2024-08-02;Porte Ilegal de Arma;Nunes;21:05;Leve;Masculino;26;Arquivado
+95;2023-05-07;Furto;da Mota;02:34;Crítica;Feminino;Desconhecida;Arquivado
+96;2024-08-07;Homicídio;Aragão;15:41;Moderada;Feminino;50;Sem suspeitos
+97;2024-12-05;Vandalismo;Monteiro;13:37;Crítica;Não identificado;46;Em andamento
+98;2024-05-06;Estelionato;Silveira Verde;10:13;Leve;Feminino;Desconhecida;Sem suspeitos
+99;2024-05-27;Sequestro;da Mota;18:54;Grave;Feminino;32;Em andamento
+100;2024-06-23;Tráfico de Drogas;Rodrigues do Campo;22:08;Grave;Não identificado;37;Arquivado
+101;2024-01-02;Porte Ilegal de Arma;da Cruz das Pedras;09:24;Grave;Masculino;35;Em andamento
+102;2023-12-31;Agressão Física;da Luz;02:42;Crítica;Não identificado;52;Sem suspeitos
+103;2023-03-21;Vandalismo;Caldeira;04:48;Moderada;Não identificado;18;Em andamento
+104;2023-10-31;Homicídio;da Luz;20:22;Moderada;Feminino;17;Arquivado
+105;2024-05-04;Agressão Física;Ramos das Flores;16:47;Leve;Masculino;Desconhecida;Sem suspeitos
+106;2023-08-22;Tráfico de Drogas;Teixeira dos Dourados;11:00;Leve;Feminino;32;Arquivado
+107;2025-01-22;Agressão Física;Silveira;18:41;Grave;Masculino;52;Arquivado
+108;2023-03-27;Porte Ilegal de Arma;Pereira;12:24;Grave;Não identificado;Desconhecida;Sem suspeitos
+109;2023-11-13;Estelionato;Santos;14:02;Leve;Masculino;30;Em andamento
+110;2024-01-30;Porte Ilegal de Arma;Novaes da Serra;21:12;Grave;Feminino;18;Arquivado
+111;2024-09-15;Estelionato;Cavalcanti;01:36;Crítica;Não identificado;59;Sem suspeitos
+112;2025-01-23;Roubo;Costa;13:19;Moderada;Masculino;59;Concluído
+113;2024-09-21;Sequestro;Correia;14:38;Leve;Não identificado;34;Concluído
+114;2023-04-16;Vandalismo;Moreira de Pires;17:33;Leve;Masculino;Desconhecida;Concluído
+115;2023-03-23;Violência Doméstica;Barbosa Grande;21:56;Grave;Não identificado;15;Concluído
+116;2024-01-11;Sequestro;Viana de Araújo;04:31;Crítica;Não identificado;38;Sem suspeitos
+117;2023-04-02;Tráfico de Drogas;Lima de Nunes;16:09;Crítica;Feminino;55;Em andamento
+118;2024-11-16;Roubo;Araújo;23:02;Moderada;Não identificado;49;Em andamento
+119;2025-02-14;Estelionato;da Cunha de Moura;00:09;Grave;Não identificado;35;Arquivado
+120;2023-06-19;Agressão Física;Rodrigues das Flores;16:45;Grave;Masculino;21;Concluído
+121;2024-11-03;Porte Ilegal de Arma;Pinto do Campo;01:32;Crítica;Feminino;18;Sem suspeitos
+122;2025-01-16;Roubo;Ramos de da Cunha;08:01;Grave;Não identificado;50;Arquivado
+123;2023-12-28;Roubo;Pires;11:41;Grave;Feminino;Desconhecida;Arquivado
+124;2023-09-12;Vandalismo;Lima do Norte;13:31;Grave;Feminino;62;Sem suspeitos
+125;2024-06-10;Violência Doméstica;Aragão de Jesus;17:46;Moderada;Não identificado;Desconhecida;Em andamento
+126;2024-09-30;Homicídio;Barbosa;10:43;Moderada;Feminino;39;Arquivado
+127;2023-06-30;Vandalismo;Ramos;02:14;Leve;Feminino;19;Arquivado
+128;2023-10-16;Furto;da Luz do Oeste;15:53;Crítica;Não identificado;50;Concluído
+129;2024-05-23;Violência Doméstica;Silveira;13:47;Moderada;Não identificado;Desconhecida;Arquivado
+130;2023-08-29;Homicídio;Silveira;00:07;Grave;Masculino;41;Concluído
+131;2023-12-20;Tráfico de Drogas;Silva do Galho;07:23;Moderada;Feminino;59;Em andamento
+132;2023-12-01;Estelionato;Jesus;07:10;Grave;Não identificado;62;Concluído
+133;2024-10-30;Roubo;Alves da Prata;16:35;Moderada;Masculino;48;Sem suspeitos
+134;2025-01-25;Tráfico de Drogas;da Mata Verde;21:06;Crítica;Feminino;47;Sem suspeitos
+135;2025-02-12;Furto;Cardoso de Porto;03:15;Leve;Feminino;18;Concluído
+136;2024-11-21;Tráfico de Drogas;Cunha de Rocha;23:20;Grave;Feminino;34;Concluído
+137;2023-08-04;Tráfico de Drogas;Pinto da Mata;14:02;Grave;Não identificado;57;Concluído
+138;2023-05-29;Roubo;Costa de Goiás;12:38;Leve;Não identificado;17;Sem suspeitos
+139;2023-10-22;Violência Doméstica;Moreira do Campo;15:33;Grave;Feminino;42;Concluído
+140;2024-12-28;Violência Doméstica;Porto do Amparo;00:16;Grave;Masculino;45;Em andamento
+141;2025-02-13;Sequestro;Gomes;16:12;Moderada;Masculino;57;Concluído
+142;2024-08-29;Roubo;Viana;10:16;Grave;Masculino;50;Arquivado
+143;2023-05-08;Vandalismo;Souza do Sul;02:33;Grave;Masculino;33;Arquivado
+144;2023-04-14;Vandalismo;Novaes;23:28;Moderada;Masculino;62;Arquivado
+145;2023-05-26;Agressão Física;Pereira;16:41;Leve;Não identificado;18;Arquivado
+146;2024-03-16;Homicídio;da Cunha;09:50;Crítica;Não identificado;30;Em andamento
+147;2023-11-29;Furto;Gomes Verde;17:38;Leve;Feminino;18;Arquivado
+148;2023-04-15;Violência Doméstica;Carvalho de Minas;04:01;Leve;Masculino;44;Sem suspeitos
+149;2023-06-21;Roubo;Araújo;11:00;Moderada;Feminino;61;Arquivado
+150;2024-08-13;Estelionato;Alves de Costela;11:49;Grave;Não identificado;Desconhecida;Concluído
+151;2024-05-29;Vandalismo;Gonçalves;21:00;Grave;Não identificado;18;Arquivado
+152;2024-05-14;Roubo;da Rosa;02:14;Moderada;Feminino;18;Concluído
+153;2023-09-21;Roubo;Sales da Serra;22:56;Grave;Não identificado;35;Concluído
+154;2024-12-24;Violência Doméstica;Sales;22:18;Grave;Masculino;63;Arquivado
+155;2024-10-19;Porte Ilegal de Arma;Aragão do Campo;13:50;Grave;Masculino;21;Arquivado
+156;2023-10-27;Tráfico de Drogas;Alves;23:56;Leve;Não identificado;Desconhecida;Sem suspeitos
+157;2024-04-28;Estelionato;Peixoto da Prata;07:03;Moderada;Feminino;15;Arquivado
+158;2024-11-17;Sequestro;Lopes dos Dourados;13:49;Grave;Masculino;57;Arquivado
+159;2023-08-18;Porte Ilegal de Arma;Moraes;17:12;Moderada;Masculino;58;Arquivado
+160;2024-11-01;Estelionato;das Neves de Porto;05:24;Moderada;Não identificado;Desconhecida;Concluído
+161;2024-07-24;Tráfico de Drogas;Ramos;05:34;Leve;Não identificado;63;Em andamento
+162;2024-06-04;Homicídio;da Mota;16:07;Crítica;Masculino;26;Concluído
+163;2025-02-03;Homicídio;Caldeira da Serra;10:35;Crítica;Masculino;47;Arquivado
+164;2023-09-03;Violência Doméstica;das Neves das Pedras;11:41;Leve;Não identificado;23;Arquivado
+165;2023-12-24;Violência Doméstica;Araújo da Mata;04:10;Grave;Masculino;Desconhecida;Arquivado
+166;2025-03-01;Estelionato;Silveira;06:20;Grave;Feminino;36;Arquivado
+167;2023-09-04;Sequestro;Azevedo de Nogueira;10:20;Grave;Feminino;48;Arquivado
+168;2023-06-11;Vandalismo;Melo;19:30;Crítica;Feminino;57;Concluído
+169;2023-12-20;Vandalismo;Ferreira;07:28;Moderada;Não identificado;Desconhecida;Concluído
+170;2024-06-15;Homicídio;Pires;06:54;Crítica;Não identificado;Desconhecida;Sem suspeitos
+171;2023-05-29;Tráfico de Drogas;da Mata de Jesus;03:06;Leve;Feminino;51;Sem suspeitos
+172;2025-02-19;Homicídio;Nascimento;21:01;Leve;Masculino;47;Em andamento
+173;2024-04-12;Violência Doméstica;Sales do Norte;14:55;Leve;Não identificado;40;Em andamento
+174;2023-07-06;Vandalismo;Silva da Prata;11:47;Leve;Masculino;45;Em andamento
+175;2023-04-01;Porte Ilegal de Arma;Nunes;18:29;Moderada;Feminino;Desconhecida;Concluído
+176;2024-10-07;Roubo;Vieira do Oeste;15:42;Leve;Não identificado;22;Concluído
+177;2023-04-30;Sequestro;Pereira do Galho;11:00;Leve;Não identificado;15;Em andamento
+178;2023-11-17;Furto;Sales de Cardoso;06:03;Leve;Feminino;27;Concluído
+179;2023-07-25;Roubo;da Costa de Fernandes;23:04;Moderada;Masculino;30;Arquivado
+180;2024-11-03;Vandalismo;Ferreira Verde;12:35;Moderada;Masculino;49;Sem suspeitos
+181;2024-06-08;Vandalismo;Cardoso de Campos;02:07;Moderada;Não identificado;18;Arquivado
+182;2023-07-16;Roubo;Peixoto;19:43;Moderada;Feminino;43;Em andamento
+183;2025-02-19;Porte Ilegal de Arma;Aragão;09:44;Crítica;Masculino;20;Concluído
+184;2025-02-18;Sequestro;Rodrigues;01:36;Leve;Masculino;57;Sem suspeitos
+185;2023-04-01;Roubo;Nogueira;22:21;Grave;Masculino;63;Sem suspeitos
+186;2024-01-26;Sequestro;da Cunha;11:19;Moderada;Não identificado;18;Sem suspeitos
+187;2024-10-05;Sequestro;da Luz de Fernandes;02:51;Grave;Masculino;65;Sem suspeitos
+188;2024-10-26;Tráfico de Drogas;Dias;03:38;Crítica;Masculino;15;Concluído
+189;2023-08-21;Vandalismo;Rezende;06:44;Grave;Feminino;Desconhecida;Sem suspeitos
+190;2023-04-25;Tráfico de Drogas;Moura;23:28;Moderada;Masculino;59;Concluído
+191;2024-02-12;Homicídio;da Conceição;23:07;Leve;Não identificado;30;Arquivado
+192;2024-12-12;Sequestro;Cunha;15:38;Moderada;Masculino;48;Concluído
+193;2023-06-20;Roubo;Campos das Flores;06:58;Crítica;Feminino;20;Arquivado
+194;2024-06-02;Homicídio;Nogueira;08:30;Crítica;Masculino;51;Arquivado
+195;2023-11-06;Vandalismo;da Rocha;07:27;Crítica;Não identificado;55;Sem suspeitos
+196;2024-07-17;Vandalismo;Teixeira;23:49;Leve;Feminino;55;Arquivado
+197;2023-07-08;Violência Doméstica;Ferreira;09:42;Moderada;Masculino;16;Em andamento
+198;2023-11-10;Homicídio;Vieira de da Cunha;01:36;Leve;Não identificado;33;Arquivado
+199;2023-04-29;Homicídio;da Cruz;05:29;Moderada;Masculino;44;Arquivado
+200;2024-09-15;Vandalismo;Aragão de Porto;05:11;Leve;Masculino;29;Em andamento
+201;2023-08-05;Furto;Barbosa do Norte;08:35;Leve;Não identificado;40;Concluído
+202;2024-06-30;Estelionato;da Mota do Campo;09:26;Leve;Masculino;52;Sem suspeitos
+203;2023-03-15;Homicídio;Nunes Alegre;10:04;Crítica;Masculino;50;Concluído
+204;2024-11-01;Sequestro;Moura de Minas;04:55;Crítica;Não identificado;Desconhecida;Sem suspeitos
+205;2024-10-29;Homicídio;das Neves;06:31;Grave;Masculino;Desconhecida;Sem suspeitos
+206;2023-06-21;Violência Doméstica;Farias Alegre;03:46;Grave;Feminino;43;Sem suspeitos
+207;2024-06-15;Tráfico de Drogas;Porto de Costa;16:25;Crítica;Feminino;49;Sem suspeitos
+208;2024-11-21;Homicídio;Viana do Galho;10:52;Moderada;Não identificado;47;Arquivado
+209;2024-04-26;Roubo;Rodrigues Alegre;00:38;Moderada;Masculino;20;Concluído
+210;2024-08-26;Tráfico de Drogas;Ramos do Oeste;01:22;Moderada;Não identificado;30;Sem suspeitos
+211;2023-05-06;Roubo;Porto;20:46;Leve;Não identificado;38;Em andamento
+212;2023-11-14;Sequestro;da Conceição do Amparo;14:19;Crítica;Feminino;Desconhecida;Sem suspeitos
+213;2023-04-03;Porte Ilegal de Arma;Carvalho;18:21;Moderada;Feminino;Desconhecida;Sem suspeitos
+214;2024-01-30;Tráfico de Drogas;Moraes Paulista;21:50;Grave;Não identificado;Desconhecida;Arquivado
+215;2023-10-20;Violência Doméstica;Azevedo Alegre;09:50;Crítica;Feminino;Desconhecida;Arquivado
+216;2024-11-29;Porte Ilegal de Arma;Viana;22:26;Crítica;Feminino;Desconhecida;Concluído
+217;2024-03-23;Sequestro;Peixoto do Oeste;12:30;Crítica;Masculino;55;Em andamento
+218;2023-05-10;Roubo;Freitas;10:34;Leve;Não identificado;20;Em andamento
+219;2024-05-08;Estelionato;Correia;01:10;Moderada;Masculino;Desconhecida;Sem suspeitos
+220;2023-06-26;Estelionato;Rocha;22:19;Crítica;Feminino;63;Em andamento
+221;2023-06-22;Violência Doméstica;da Paz;01:46;Grave;Masculino;31;Sem suspeitos
+222;2023-09-16;Roubo;das Neves;13:05;Grave;Masculino;20;Sem suspeitos
+223;2023-10-31;Roubo;da Mata;13:13;Crítica;Feminino;24;Sem suspeitos
+224;2024-05-20;Porte Ilegal de Arma;Barbosa do Sul;11:03;Grave;Masculino;40;Arquivado
+225;2024-06-27;Roubo;Costela;21:21;Grave;Feminino;52;Arquivado
+226;2023-09-28;Sequestro;Nogueira;11:16;Crítica;Não identificado;26;Concluído
+227;2024-12-30;Furto;Ramos de Costa;22:27;Moderada;Feminino;53;Em andamento
+228;2023-10-01;Homicídio;Lopes do Sul;12:58;Crítica;Não identificado;38;Sem suspeitos
+229;2024-05-25;Furto;Ferreira;16:36;Grave;Masculino;16;Concluído
+230;2024-07-03;Violência Doméstica;Cardoso do Norte;15:35;Moderada;Feminino;22;Em andamento
+231;2024-05-18;Violência Doméstica;da Mota de Castro;23:47;Leve;Não identificado;48;Sem suspeitos
+232;2024-10-03;Agressão Física;da Rosa de Minas;16:31;Moderada;Não identificado;29;Concluído
+233;2023-03-30;Vandalismo;Barros;13:34;Crítica;Feminino;24;Arquivado
+234;2023-05-31;Agressão Física;da Mota do Sul;07:01;Crítica;Feminino;Desconhecida;Concluído
+235;2024-12-04;Tráfico de Drogas;Rezende de Cardoso;20:20;Moderada;Não identificado;19;Concluído
+236;2023-04-26;Tráfico de Drogas;Mendes;04:45;Leve;Masculino;55;Arquivado
+237;2023-11-18;Estelionato;Gonçalves;11:25;Moderada;Masculino;63;Concluído
+238;2024-05-05;Tráfico de Drogas;Moreira;23:42;Leve;Masculino;54;Arquivado
+239;2023-07-15;Porte Ilegal de Arma;da Luz;06:19;Moderada;Não identificado;39;Concluído
+240;2024-04-21;Violência Doméstica;Porto;17:58;Grave;Masculino;32;Em andamento
+241;2024-04-09;Tráfico de Drogas;Nunes de Minas;11:52;Crítica;Masculino;Desconhecida;Concluído
+242;2024-08-26;Homicídio;Sales;15:59;Moderada;Masculino;Desconhecida;Sem suspeitos
+243;2023-12-10;Vandalismo;da Rosa da Prata;08:03;Crítica;Não identificado;50;Arquivado
+244;2024-04-17;Violência Doméstica;Araújo;10:17;Grave;Masculino;40;Arquivado
+245;2024-03-09;Violência Doméstica;Campos;11:22;Leve;Não identificado;39;Em andamento
+246;2024-12-06;Violência Doméstica;Silveira das Pedras;22:03;Leve;Masculino;43;Concluído
+247;2023-09-26;Porte Ilegal de Arma;da Paz do Campo;23:56;Crítica;Não identificado;31;Em andamento
+248;2023-11-23;Sequestro;Vieira do Amparo;06:53;Crítica;Não identificado;Desconhecida;Em andamento
+249;2023-07-19;Homicídio;Rodrigues do Campo;06:04;Leve;Feminino;23;Sem suspeitos
+250;2024-01-07;Tráfico de Drogas;Lima;15:24;Moderada;Feminino;60;Arquivado
+251;2023-11-14;Homicídio;Silveira das Pedras;14:43;Crítica;Não identificado;31;Concluído
+252;2024-03-27;Vandalismo;da Rocha do Amparo;16:14;Leve;Feminino;22;Em andamento
+253;2024-09-29;Homicídio;Moura das Pedras;05:17;Leve;Masculino;35;Concluído
+254;2025-01-02;Agressão Física;Sales;09:01;Leve;Não identificado;16;Arquivado
+255;2023-09-13;Sequestro;Peixoto;10:45;Moderada;Não identificado;24;Em andamento
+256;2023-07-15;Violência Doméstica;Campos;20:44;Crítica;Feminino;53;Concluído
+257;2024-01-13;Violência Doméstica;Almeida Alegre;19:28;Crítica;Feminino;47;Em andamento
+258;2024-08-20;Vandalismo;Sales;04:42;Moderada;Feminino;20;Sem suspeitos
+259;2024-12-20;Homicídio;Araújo das Flores;13:03;Leve;Masculino;59;Em andamento
+260;2023-03-22;Furto;Farias do Sul;02:23;Moderada;Feminino;Desconhecida;Sem suspeitos
+261;2023-10-30;Tráfico de Drogas;Freitas;02:59;Leve;Masculino;62;Arquivado
+262;2024-07-20;Homicídio;Ribeiro das Flores;11:56;Moderada;Feminino;54;Em andamento
+263;2024-11-17;Tráfico de Drogas;Silveira de Minas;02:51;Moderada;Feminino;35;Arquivado
+264;2024-01-25;Furto;Rodrigues;02:52;Grave;Não identificado;54;Em andamento
+265;2024-02-10;Roubo;Santos Alegre;14:15;Crítica;Masculino;63;Sem suspeitos
+266;2024-08-10;Furto;Cardoso do Norte;13:36;Grave;Não identificado;21;Em andamento
+267;2024-07-12;Roubo;Silveira das Pedras;13:36;Grave;Feminino;62;Arquivado
+268;2024-06-21;Furto;Nogueira de Barbosa;02:38;Grave;Feminino;Desconhecida;Em andamento
+269;2024-02-25;Homicídio;Porto;00:18;Leve;Masculino;50;Concluído
+270;2025-02-07;Homicídio;Nascimento do Sul;17:36;Grave;Não identificado;19;Sem suspeitos
+271;2024-03-29;Estelionato;Ribeiro;01:08;Grave;Masculino;27;Em andamento
+272;2024-11-19;Vandalismo;Nogueira;21:38;Leve;Masculino;Desconhecida;Arquivado
+273;2023-12-21;Violência Doméstica;da Costa;07:13;Moderada;Masculino;44;Em andamento
+274;2024-03-13;Roubo;Cunha;13:57;Leve;Masculino;18;Em andamento
+275;2023-08-25;Porte Ilegal de Arma;Freitas Paulista;11:58;Crítica;Feminino;32;Em andamento
+276;2024-04-21;Violência Doméstica;Jesus da Serra;18:22;Moderada;Masculino;65;Sem suspeitos
+277;2023-04-12;Violência Doméstica;Freitas das Flores;00:08;Leve;Masculino;Desconhecida;Em andamento
+278;2024-11-29;Sequestro;Nunes do Galho;07:27;Grave;Não identificado;14;Concluído
+279;2023-10-17;Violência Doméstica;da Mata das Flores;18:52;Crítica;Masculino;Desconhecida;Sem suspeitos
+280;2025-01-22;Estelionato;Carvalho Verde;16:25;Moderada;Masculino;64;Em andamento
+281;2024-10-31;Roubo;Viana;20:04;Grave;Não identificado;20;Sem suspeitos
+282;2024-04-24;Violência Doméstica;Silveira do Campo;05:24;Moderada;Feminino;42;Concluído
+283;2023-06-06;Vandalismo;Souza do Oeste;03:35;Leve;Não identificado;50;Arquivado
+284;2023-07-12;Estelionato;Rezende das Flores;09:06;Moderada;Não identificado;46;Concluído
+285;2023-10-23;Porte Ilegal de Arma;da Rocha;09:50;Crítica;Masculino;Desconhecida;Sem suspeitos
+286;2023-05-19;Porte Ilegal de Arma;da Cruz;17:54;Leve;Feminino;51;Em andamento
+287;2024-01-16;Vandalismo;Melo;23:35;Crítica;Masculino;21;Em andamento
+288;2024-07-02;Agressão Física;Caldeira de da Rocha;23:32;Moderada;Feminino;Desconhecida;Sem suspeitos
+289;2023-12-24;Roubo;Jesus;20:35;Grave;Não identificado;42;Concluído
+290;2025-01-29;Estelionato;Nascimento Grande;05:47;Moderada;Não identificado;60;Concluído
+291;2024-01-29;Agressão Física;Lima;11:10;Leve;Masculino;62;Sem suspeitos
+292;2024-11-05;Vandalismo;Pinto;06:24;Leve;Feminino;Desconhecida;Concluído
+293;2024-05-29;Roubo;Souza;02:16;Grave;Não identificado;33;Concluído
+294;2024-03-26;Sequestro;da Paz das Flores;11:47;Crítica;Feminino;33;Concluído
+295;2024-07-08;Violência Doméstica;Barros do Campo;22:26;Grave;Não identificado;14;Sem suspeitos
+296;2023-05-23;Violência Doméstica;Nogueira de Pinto;12:12;Moderada;Masculino;54;Em andamento
+297;2024-10-02;Vandalismo;Alves;16:11;Grave;Masculino;49;Em andamento
+298;2023-12-26;Porte Ilegal de Arma;Gomes;07:12;Moderada;Não identificado;57;Arquivado
+299;2023-05-09;Vandalismo;Moreira de Azevedo;19:32;Leve;Feminino;55;Concluído
+300;2023-09-16;Roubo;Almeida do Sul;18:43;Leve;Feminino;14;Em andamento
+301;2024-12-09;Estelionato;Oliveira da Prata;06:40;Leve;Não identificado;40;Arquivado
+302;2023-10-23;Agressão Física;Moreira;00:59;Moderada;Masculino;35;Sem suspeitos
+303;2023-12-24;Furto;Mendes dos Dourados;21:20;Moderada;Masculino;Desconhecida;Arquivado
+304;2024-12-20;Tráfico de Drogas;Gonçalves dos Dourados;22:03;Moderada;Feminino;32;Em andamento
+305;2023-05-27;Tráfico de Drogas;Pinto de Ribeiro;09:21;Leve;Não identificado;61;Sem suspeitos
+306;2023-12-22;Agressão Física;Pereira do Oeste;11:00;Leve;Masculino;Desconhecida;Em andamento
+307;2024-05-06;Sequestro;Barbosa;07:29;Leve;Feminino;50;Sem suspeitos
+308;2024-04-27;Agressão Física;Silva;13:35;Leve;Não identificado;51;Em andamento
+309;2025-02-11;Violência Doméstica;Jesus de Minas;09:28;Leve;Masculino;59;Em andamento
+310;2024-06-12;Tráfico de Drogas;Porto do Oeste;15:07;Crítica;Masculino;38;Sem suspeitos
+311;2023-04-12;Furto;Campos Verde;08:35;Crítica;Feminino;48;Arquivado
+312;2023-10-30;Vandalismo;Gonçalves;11:59;Crítica;Não identificado;61;Concluído
+313;2023-06-17;Tráfico de Drogas;Melo das Flores;01:50;Moderada;Masculino;18;Concluído
+314;2025-01-14;Roubo;Azevedo;02:50;Crítica;Não identificado;27;Arquivado
+315;2023-04-15;Vandalismo;da Costa;05:22;Grave;Feminino;Desconhecida;Arquivado
+316;2023-05-22;Roubo;Santos;18:01;Leve;Masculino;45;Concluído
+317;2024-08-30;Tráfico de Drogas;Lima;11:33;Grave;Não identificado;17;Sem suspeitos
+318;2024-04-09;Porte Ilegal de Arma;Jesus Verde;03:19;Grave;Feminino;14;Arquivado
+319;2024-01-30;Roubo;Gomes Alegre;10:22;Grave;Não identificado;Desconhecida;Sem suspeitos
+320;2024-02-01;Furto;da Mota da Prata;17:58;Grave;Masculino;33;Sem suspeitos
+321;2023-10-15;Vandalismo;Teixeira;08:47;Grave;Masculino;Desconhecida;Concluído
+322;2023-05-10;Roubo;das Neves;17:30;Leve;Feminino;Desconhecida;Arquivado
+323;2024-01-13;Violência Doméstica;Moraes;11:16;Moderada;Masculino;63;Em andamento
+324;2024-06-30;Violência Doméstica;Nogueira de Ferreira;09:17;Moderada;Não identificado;38;Arquivado
+325;2023-08-03;Porte Ilegal de Arma;Rezende;14:06;Crítica;Feminino;59;Concluído
+326;2023-11-13;Tráfico de Drogas;Porto da Prata;00:05;Crítica;Masculino;48;Concluído
+327;2023-08-02;Furto;Campos;20:16;Grave;Feminino;47;Arquivado
+328;2024-08-20;Porte Ilegal de Arma;Pinto;18:57;Leve;Não identificado;56;Arquivado
+329;2024-03-13;Violência Doméstica;Azevedo do Galho;00:24;Moderada;Feminino;Desconhecida;Em andamento
+330;2023-10-31;Violência Doméstica;Carvalho;21:22;Grave;Masculino;Desconhecida;Concluído
+331;2024-06-21;Estelionato;Sales;20:36;Leve;Masculino;39;Concluído
+332;2024-09-01;Tráfico de Drogas;Aragão;11:53;Leve;Masculino;Desconhecida;Em andamento
+333;2024-11-29;Vandalismo;Barros;05:12;Grave;Feminino;Desconhecida;Sem suspeitos
+334;2023-09-08;Tráfico de Drogas;da Luz;02:19;Crítica;Não identificado;Desconhecida;Em andamento
+335;2024-03-27;Tráfico de Drogas;Santos de Monteiro;08:18;Grave;Não identificado;44;Concluído
+336;2025-01-29;Sequestro;da Mota;00:34;Crítica;Feminino;26;Arquivado
+337;2024-10-01;Homicídio;Rocha;18:52;Grave;Não identificado;39;Concluído
+338;2023-08-27;Agressão Física;da Conceição do Sul;06:23;Crítica;Não identificado;Desconhecida;Concluído
+339;2023-03-18;Tráfico de Drogas;das Neves;03:20;Crítica;Masculino;Desconhecida;Em andamento
+340;2025-02-05;Furto;Caldeira das Pedras;13:42;Grave;Feminino;26;Concluído
+341;2024-07-13;Violência Doméstica;da Conceição de Minas;18:26;Leve;Feminino;48;Concluído
+342;2025-01-17;Tráfico de Drogas;Silveira;10:20;Moderada;Masculino;24;Concluído
+343;2023-12-08;Tráfico de Drogas;Jesus do Norte;07:39;Crítica;Masculino;46;Arquivado
+344;2024-01-22;Homicídio;Moreira;01:28;Leve;Feminino;61;Em andamento
+345;2024-10-10;Agressão Física;Barbosa das Flores;00:34;Grave;Masculino;22;Sem suspeitos
+346;2024-11-02;Violência Doméstica;da Mota da Prata;02:06;Crítica;Não identificado;Desconhecida;Concluído
+347;2025-02-26;Tráfico de Drogas;Melo de Viana;13:35;Crítica;Não identificado;56;Em andamento
+348;2024-06-18;Sequestro;Moura das Flores;17:18;Moderada;Masculino;48;Arquivado
+349;2023-04-12;Violência Doméstica;Silveira de Rodrigues;01:29;Leve;Feminino;47;Em andamento
+350;2024-10-22;Homicídio;Silva;07:44;Crítica;Não identificado;40;Em andamento
+351;2023-03-22;Roubo;Rezende Alegre;13:05;Crítica;Não identificado;30;Em andamento
+352;2023-10-07;Furto;da Rosa de Goiás;06:31;Leve;Não identificado;22;Sem suspeitos
+353;2025-02-21;Violência Doméstica;Sales do Oeste;20:52;Crítica;Feminino;63;Arquivado
+354;2023-09-14;Porte Ilegal de Arma;Freitas;14:11;Crítica;Feminino;55;Em andamento
+355;2024-09-25;Violência Doméstica;Costela;12:04;Crítica;Não identificado;61;Em andamento
+356;2023-09-11;Furto;Monteiro de Ferreira;00:44;Grave;Não identificado;28;Em andamento
+357;2024-08-21;Sequestro;Jesus;15:31;Crítica;Não identificado;25;Em andamento
+358;2024-10-04;Sequestro;Cardoso;03:42;Leve;Feminino;18;Em andamento
+359;2023-04-30;Roubo;Martins da Serra;01:40;Leve;Feminino;Desconhecida;Em andamento
+360;2024-05-29;Roubo;Silva;19:58;Moderada;Não identificado;61;Em andamento
+361;2023-07-24;Agressão Física;Cardoso de Vieira;17:54;Moderada;Não identificado;30;Arquivado
+362;2023-04-26;Tráfico de Drogas;da Mota de Ramos;19:03;Leve;Não identificado;49;Concluído
+363;2023-07-01;Roubo;Farias;00:09;Moderada;Feminino;Desconhecida;Arquivado
+364;2024-12-01;Porte Ilegal de Arma;Melo;05:52;Moderada;Feminino;39;Sem suspeitos
+365;2023-07-01;Porte Ilegal de Arma;Silveira do Amparo;03:42;Leve;Não identificado;18;Sem suspeitos
+366;2024-05-02;Roubo;Cardoso;11:15;Moderada;Masculino;40;Em andamento
+367;2024-07-09;Vandalismo;Barros;13:13;Grave;Não identificado;Desconhecida;Arquivado
+368;2024-12-16;Porte Ilegal de Arma;da Conceição;01:37;Grave;Feminino;28;Sem suspeitos
+369;2023-08-18;Vandalismo;da Conceição;21:06;Moderada;Masculino;28;Em andamento
+370;2024-06-09;Violência Doméstica;Rodrigues Alegre;01:34;Moderada;Feminino;37;Em andamento
+371;2024-11-05;Vandalismo;Pinto de Azevedo;23:38;Crítica;Feminino;38;Em andamento
+372;2024-11-05;Vandalismo;da Conceição de Rezende;23:37;Moderada;Feminino;64;Em andamento
+373;2024-09-02;Estelionato;da Mata;13:43;Grave;Feminino;33;Arquivado
+374;2024-01-31;Estelionato;Oliveira;09:58;Grave;Masculino;55;Concluído
+375;2023-12-14;Roubo;Duarte das Pedras;15:15;Leve;Não identificado;Desconhecida;Arquivado
+376;2023-10-28;Sequestro;da Conceição;23:58;Grave;Masculino;Desconhecida;Em andamento
+377;2023-10-07;Porte Ilegal de Arma;Moreira de Rocha;04:23;Crítica;Feminino;21;Sem suspeitos
+378;2024-05-04;Estelionato;Rocha;09:53;Leve;Masculino;26;Arquivado
+379;2025-03-09;Furto;Aragão do Amparo;04:59;Moderada;Não identificado;21;Em andamento
+380;2023-04-06;Violência Doméstica;Lopes Grande;06:39;Moderada;Não identificado;63;Arquivado
+381;2023-04-27;Sequestro;Duarte do Amparo;09:55;Crítica;Feminino;26;Sem suspeitos
+382;2024-05-04;Porte Ilegal de Arma;Barros;00:06;Crítica;Masculino;17;Sem suspeitos
+383;2024-08-31;Tráfico de Drogas;Nascimento de Minas;01:35;Moderada;Feminino;Desconhecida;Arquivado
+384;2023-10-13;Homicídio;Cardoso;05:38;Crítica;Não identificado;37;Em andamento
+385;2024-06-04;Violência Doméstica;Gonçalves;03:03;Grave;Feminino;19;Em andamento
+386;2023-11-25;Homicídio;Alves do Sul;06:34;Leve;Feminino;53;Em andamento
+387;2024-02-07;Homicídio;Castro;14:50;Crítica;Feminino;41;Em andamento
+388;2024-04-05;Furto;da Mota dos Dourados;22:47;Moderada;Feminino;37;Arquivado
+389;2024-08-21;Roubo;Teixeira;14:40;Crítica;Feminino;56;Sem suspeitos
+390;2023-09-01;Homicídio;Ramos do Campo;09:17;Leve;Não identificado;49;Arquivado
+391;2024-07-09;Estelionato;Sales;05:38;Leve;Feminino;Desconhecida;Em andamento
+392;2024-12-25;Estelionato;Santos de Goiás;09:08;Leve;Masculino;57;Em andamento
+393;2024-04-26;Tráfico de Drogas;Rezende;05:01;Grave;Masculino;52;Arquivado
+394;2023-03-31;Furto;Mendes da Praia;17:57;Leve;Masculino;18;Em andamento
+395;2024-03-18;Porte Ilegal de Arma;Rezende;17:02;Leve;Masculino;Desconhecida;Arquivado
+396;2023-11-24;Violência Doméstica;Castro;12:28;Leve;Masculino;40;Arquivado
+397;2023-08-17;Violência Doméstica;Jesus do Sul;13:42;Moderada;Masculino;48;Em andamento
+398;2023-08-26;Furto;Aragão do Amparo;11:49;Moderada;Feminino;18;Arquivado
+399;2024-11-19;Estelionato;Fogaça Verde;07:00;Moderada;Feminino;48;Em andamento
+400;2024-05-23;Agressão Física;Barbosa das Flores;00:44;Leve;Não identificado;Desconhecida;Sem suspeitos
+401;2023-03-22;Violência Doméstica;Caldeira do Campo;05:28;Crítica;Não identificado;16;Arquivado
+402;2023-07-03;Violência Doméstica;Pinto;08:25;Moderada;Feminino;23;Sem suspeitos
+403;2023-07-06;Sequestro;Cavalcanti;07:17;Crítica;Masculino;Desconhecida;Concluído
+404;2024-01-03;Furto;Silveira;04:45;Moderada;Masculino;22;Em andamento
+405;2023-09-28;Estelionato;Castro dos Dourados;09:06;Crítica;Masculino;33;Concluído
+406;2024-04-23;Sequestro;Novaes;10:00;Moderada;Masculino;34;Sem suspeitos
+407;2024-01-26;Porte Ilegal de Arma;Araújo da Serra;04:19;Grave;Feminino;Desconhecida;Concluído
+408;2023-07-31;Vandalismo;Pereira Paulista;19:54;Grave;Não identificado;53;Sem suspeitos
+409;2024-11-13;Porte Ilegal de Arma;da Cunha da Mata;19:29;Crítica;Feminino;18;Arquivado
+410;2024-10-15;Agressão Física;Monteiro;14:54;Crítica;Masculino;47;Sem suspeitos
+411;2023-05-15;Sequestro;Barbosa;17:33;Crítica;Não identificado;28;Arquivado
+412;2024-09-03;Roubo;Castro;13:10;Grave;Não identificado;16;Sem suspeitos
+413;2023-09-19;Roubo;Barros do Norte;06:27;Grave;Feminino;Desconhecida;Arquivado
+414;2023-12-12;Estelionato;Fogaça do Sul;08:45;Leve;Não identificado;Desconhecida;Arquivado
+415;2024-12-30;Sequestro;Lopes;23:34;Leve;Feminino;43;Arquivado
+416;2024-06-10;Agressão Física;Cunha;09:54;Grave;Feminino;Desconhecida;Em andamento
+417;2024-06-02;Tráfico de Drogas;Cardoso;15:01;Moderada;Feminino;17;Em andamento
+418;2023-10-23;Violência Doméstica;Costa do Oeste;03:07;Leve;Feminino;Desconhecida;Arquivado
+419;2024-11-05;Sequestro;Mendes;22:11;Leve;Masculino;35;Em andamento
+420;2023-12-05;Roubo;Viana;10:25;Moderada;Não identificado;Desconhecida;Em andamento
+421;2024-12-21;Homicídio;Pires de Minas;09:19;Moderada;Não identificado;22;Concluído
+422;2023-10-19;Tráfico de Drogas;da Cunha das Pedras;08:56;Grave;Feminino;Desconhecida;Arquivado
+423;2024-07-03;Homicídio;Ramos da Praia;12:06;Moderada;Feminino;61;Sem suspeitos
+424;2023-04-25;Violência Doméstica;Cardoso do Galho;22:14;Crítica;Não identificado;40;Sem suspeitos
+425;2024-10-16;Furto;Dias Verde;19:25;Leve;Não identificado;Desconhecida;Concluído
+426;2023-09-07;Furto;Nunes;19:12;Crítica;Masculino;56;Concluído
+427;2024-06-13;Vandalismo;Lopes;20:30;Leve;Não identificado;57;Em andamento
+428;2024-06-24;Furto;Dias do Campo;04:52;Crítica;Não identificado;17;Sem suspeitos
+429;2024-06-23;Vandalismo;Nascimento do Oeste;22:10;Crítica;Masculino;Desconhecida;Concluído
+430;2024-08-21;Vandalismo;Nascimento;17:19;Leve;Feminino;24;Sem suspeitos
+431;2023-10-21;Homicídio;Rodrigues Grande;23:51;Crítica;Feminino;45;Concluído
+432;2024-01-12;Violência Doméstica;Ferreira das Flores;07:44;Leve;Feminino;41;Em andamento
+433;2023-08-19;Roubo;Aragão do Sul;03:43;Crítica;Masculino;16;Sem suspeitos
+434;2023-11-23;Roubo;Vieira Paulista;15:15;Crítica;Masculino;Desconhecida;Concluído
+435;2024-12-07;Homicídio;Gomes;05:28;Grave;Não identificado;43;Sem suspeitos
+436;2023-07-11;Homicídio;Jesus de Minas;04:43;Moderada;Não identificado;44;Sem suspeitos
+437;2023-12-09;Tráfico de Drogas;da Paz;22:50;Leve;Feminino;Desconhecida;Concluído
+438;2024-12-07;Estelionato;Lima;02:35;Crítica;Não identificado;36;Sem suspeitos
+439;2025-02-09;Vandalismo;Duarte da Praia;16:15;Crítica;Masculino;45;Concluído
+440;2023-09-02;Homicídio;da Rosa da Praia;05:38;Crítica;Masculino;18;Sem suspeitos
+441;2023-09-03;Furto;Pinto;12:51;Crítica;Feminino;39;Em andamento
+442;2024-10-07;Agressão Física;da Mota de Peixoto;21:20;Moderada;Não identificado;48;Em andamento
+443;2023-07-19;Porte Ilegal de Arma;Ramos de Araújo;17:13;Moderada;Feminino;28;Arquivado
+444;2023-08-15;Violência Doméstica;Moura da Prata;19:04;Grave;Masculino;53;Sem suspeitos
+445;2024-01-11;Vandalismo;Nogueira das Flores;08:30;Moderada;Não identificado;15;Arquivado
+446;2025-02-26;Sequestro;Araújo;08:20;Crítica;Masculino;61;Em andamento
+447;2023-12-21;Roubo;Melo do Campo;22:03;Leve;Não identificado;46;Sem suspeitos
+448;2023-05-08;Agressão Física;Rocha Verde;21:51;Leve;Masculino;Desconhecida;Em andamento
+449;2023-08-13;Roubo;Pereira;08:26;Leve;Não identificado;Desconhecida;Sem suspeitos
+450;2023-06-05;Tráfico de Drogas;Lima Alegre;08:21;Grave;Não identificado;48;Em andamento
+451;2023-11-16;Agressão Física;da Costa de Minas;12:49;Moderada;Feminino;58;Sem suspeitos
+452;2023-08-24;Agressão Física;da Cunha;11:14;Leve;Feminino;51;Arquivado
+453;2024-11-30;Violência Doméstica;da Cunha Grande;01:18;Moderada;Não identificado;Desconhecida;Em andamento
+454;2023-06-22;Agressão Física;Costa;13:34;Grave;Masculino;42;Arquivado
+455;2025-01-23;Sequestro;Gomes da Praia;18:53;Crítica;Feminino;45;Arquivado
+456;2024-06-08;Estelionato;Novaes;09:44;Crítica;Não identificado;64;Arquivado
+457;2024-08-14;Tráfico de Drogas;Silva;12:27;Leve;Não identificado;40;Sem suspeitos
+458;2023-10-15;Violência Doméstica;Castro;17:16;Grave;Feminino;Desconhecida;Sem suspeitos
+459;2024-11-27;Vandalismo;Cardoso;04:53;Moderada;Feminino;45;Concluído
+460;2023-10-27;Estelionato;Almeida;14:51;Crítica;Masculino;53;Concluído
+461;2023-10-03;Porte Ilegal de Arma;Rezende do Sul;03:38;Moderada;Não identificado;64;Concluído
+462;2024-03-14;Violência Doméstica;das Neves;08:44;Crítica;Masculino;Desconhecida;Sem suspeitos
+463;2023-05-07;Violência Doméstica;Ferreira;12:49;Grave;Masculino;22;Sem suspeitos
+464;2023-11-20;Porte Ilegal de Arma;Caldeira;02:22;Moderada;Não identificado;Desconhecida;Em andamento
+465;2023-08-04;Vandalismo;Barbosa;00:22;Moderada;Masculino;49;Sem suspeitos
+466;2024-03-02;Furto;Barbosa;21:55;Leve;Masculino;34;Em andamento
+467;2024-06-22;Furto;Novaes;20:47;Grave;Masculino;48;Concluído
+468;2023-08-27;Porte Ilegal de Arma;Almeida;09:00;Crítica;Feminino;Desconhecida;Concluído
+469;2024-09-10;Sequestro;Santos;19:36;Crítica;Não identificado;45;Sem suspeitos
+470;2023-08-04;Estelionato;Silva;23:26;Grave;Masculino;53;Concluído
+471;2025-03-02;Porte Ilegal de Arma;Almeida Alegre;12:11;Grave;Não identificado;26;Em andamento
+472;2024-07-11;Agressão Física;Gomes;15:48;Crítica;Masculino;23;Sem suspeitos
+473;2023-11-09;Violência Doméstica;Araújo;04:52;Grave;Masculino;21;Concluído
+474;2024-01-24;Homicídio;Cardoso Grande;02:52;Grave;Feminino;31;Arquivado
+475;2025-03-04;Porte Ilegal de Arma;da Mota do Campo;18:38;Crítica;Feminino;55;Concluído
+476;2025-01-16;Agressão Física;Alves;10:59;Moderada;Masculino;Desconhecida;Concluído
+477;2024-12-24;Vandalismo;Mendes das Flores;00:46;Grave;Não identificado;29;Sem suspeitos
+478;2024-12-19;Tráfico de Drogas;Nascimento;01:29;Leve;Não identificado;45;Sem suspeitos
+479;2023-08-17;Agressão Física;Moreira;05:17;Leve;Não identificado;64;Arquivado
+480;2024-07-18;Porte Ilegal de Arma;Santos de Goiás;21:25;Grave;Feminino;28;Em andamento
+481;2023-12-04;Porte Ilegal de Arma;Pereira Alegre;19:37;Moderada;Feminino;26;Arquivado
+482;2023-12-07;Homicídio;da Mota da Mata;23:27;Leve;Masculino;20;Concluído
+483;2024-05-28;Agressão Física;Peixoto de Minas;23:25;Moderada;Masculino;Desconhecida;Em andamento
+484;2024-01-31;Violência Doméstica;Farias da Serra;01:53;Moderada;Feminino;54;Em andamento
+485;2023-04-12;Estelionato;Almeida de Rezende;11:55;Leve;Não identificado;51;Concluído
+486;2024-09-14;Sequestro;Pinto do Oeste;00:51;Crítica;Não identificado;60;Sem suspeitos
+487;2024-03-07;Roubo;Pereira Verde;11:32;Leve;Feminino;42;Concluído
+488;2023-11-22;Porte Ilegal de Arma;Teixeira;05:33;Moderada;Não identificado;Desconhecida;Sem suspeitos
+489;2023-06-18;Roubo;da Paz;02:36;Leve;Feminino;52;Arquivado
+490;2024-09-10;Agressão Física;Pinto do Norte;10:13;Crítica;Não identificado;60;Em andamento
+491;2023-10-20;Vandalismo;Carvalho;04:27;Leve;Não identificado;28;Arquivado
+492;2023-10-19;Sequestro;Melo do Norte;09:24;Leve;Masculino;61;Concluído
+493;2023-12-04;Violência Doméstica;Rezende;11:06;Grave;Masculino;54;Concluído
+494;2023-12-29;Sequestro;Gonçalves Paulista;10:51;Moderada;Feminino;22;Concluído
+495;2024-10-10;Tráfico de Drogas;Carvalho da Praia;18:50;Crítica;Masculino;54;Arquivado
+496;2024-02-11;Estelionato;Cunha do Campo;08:28;Moderada;Não identificado;19;Concluído
+497;2024-07-01;Tráfico de Drogas;Nogueira da Praia;22:58;Crítica;Feminino;43;Em andamento
+498;2024-02-17;Vandalismo;Ferreira do Galho;13:29;Moderada;Não identificado;63;Em andamento
+499;2023-10-18;Tráfico de Drogas;Nunes;23:13;Moderada;Masculino;Desconhecida;Em andamento
+500;2024-09-21;Vandalismo;Moreira;07:22;Moderada;Masculino;32;Em andamento
+501;2025-01-20;Roubo;Monteiro das Pedras;11:02;Moderada;Feminino;Desconhecida;Concluído
+502;2024-02-13;Vandalismo;Cavalcanti;08:20;Leve;Não identificado;39;Em andamento
+503;2023-09-22;Estelionato;Nogueira do Oeste;07:14;Crítica;Não identificado;36;Sem suspeitos
+504;2023-04-07;Roubo;Teixeira de Correia;04:54;Moderada;Feminino;46;Concluído
+505;2025-01-07;Roubo;Martins do Galho;16:04;Grave;Não identificado;39;Concluído
+506;2025-03-02;Vandalismo;Cardoso do Amparo;11:27;Grave;Masculino;Desconhecida;Arquivado
+507;2024-10-14;Agressão Física;Ferreira do Campo;00:38;Grave;Feminino;38;Em andamento
+508;2024-04-27;Roubo;da Rosa Grande;15:01;Moderada;Não identificado;32;Em andamento
+509;2023-12-01;Estelionato;Souza de da Mota;18:51;Leve;Masculino;40;Em andamento
+510;2025-02-10;Porte Ilegal de Arma;Azevedo de Viana;08:01;Moderada;Não identificado;41;Sem suspeitos
+511;2025-02-09;Vandalismo;Ramos dos Dourados;09:22;Crítica;Feminino;Desconhecida;Sem suspeitos
+512;2024-01-17;Violência Doméstica;Barros;13:59;Crítica;Feminino;61;Em andamento
+513;2023-04-05;Tráfico de Drogas;Porto;17:41;Moderada;Feminino;22;Concluído
+514;2023-07-28;Estelionato;Farias de Oliveira;02:23;Crítica;Não identificado;44;Em andamento
+515;2024-07-06;Tráfico de Drogas;Fogaça;02:56;Crítica;Masculino;48;Concluído
+516;2024-05-04;Homicídio;Cardoso Grande;23:13;Moderada;Masculino;Desconhecida;Sem suspeitos
+517;2023-10-07;Furto;Gonçalves de Oliveira;02:23;Crítica;Não identificado;31;Arquivado
+518;2025-02-12;Vandalismo;Cardoso do Oeste;21:46;Crítica;Masculino;59;Arquivado
+519;2023-11-01;Violência Doméstica;Ferreira;23:25;Moderada;Masculino;48;Em andamento
+520;2023-07-15;Sequestro;Dias do Amparo;00:29;Grave;Masculino;64;Sem suspeitos
+521;2024-04-17;Estelionato;Oliveira do Norte;01:05;Leve;Feminino;25;Sem suspeitos
+522;2025-01-05;Roubo;Viana da Serra;23:50;Crítica;Masculino;32;Arquivado
+523;2024-02-06;Agressão Física;Jesus das Flores;00:18;Crítica;Masculino;48;Em andamento
+524;2023-08-06;Roubo;Moreira;23:48;Leve;Feminino;37;Arquivado
+525;2024-05-01;Vandalismo;Souza das Flores;23:17;Leve;Feminino;Desconhecida;Concluído
+526;2024-06-30;Furto;Oliveira;09:26;Leve;Feminino;25;Sem suspeitos
+527;2024-07-25;Roubo;Martins de Minas;23:34;Grave;Não identificado;16;Em andamento
+528;2023-10-25;Violência Doméstica;da Rocha;04:47;Crítica;Não identificado;Desconhecida;Sem suspeitos
+529;2023-06-05;Roubo;da Luz do Sul;09:39;Moderada;Não identificado;62;Arquivado
+530;2023-08-08;Furto;Porto da Mata;23:41;Crítica;Não identificado;31;Sem suspeitos
+531;2023-06-01;Furto;Cardoso do Amparo;18:37;Crítica;Não identificado;38;Arquivado
+532;2023-10-26;Vandalismo;Vieira;14:50;Crítica;Não identificado;57;Concluído
+533;2024-02-28;Roubo;Monteiro;16:21;Moderada;Não identificado;17;Concluído
+534;2024-12-06;Estelionato;Ribeiro do Sul;07:52;Grave;Masculino;59;Arquivado
+535;2023-06-15;Sequestro;Costela do Galho;10:17;Moderada;Não identificado;42;Arquivado
+536;2023-04-17;Roubo;Costela Verde;20:46;Crítica;Masculino;46;Concluído
+537;2025-02-08;Estelionato;Jesus;01:56;Crítica;Não identificado;25;Sem suspeitos
+538;2024-04-09;Furto;Aragão;00:20;Moderada;Feminino;31;Arquivado
+539;2023-10-03;Roubo;Farias;03:55;Leve;Masculino;43;Concluído
+540;2025-02-19;Agressão Física;Ribeiro de Barbosa;12:32;Crítica;Feminino;62;Arquivado
+541;2025-02-25;Tráfico de Drogas;Costela;19:41;Moderada;Feminino;29;Arquivado
+542;2025-01-23;Homicídio;Pires da Prata;12:46;Moderada;Masculino;15;Concluído
+543;2024-07-13;Vandalismo;Lopes;02:57;Moderada;Feminino;54;Sem suspeitos
+544;2024-05-17;Tráfico de Drogas;Carvalho;16:53;Crítica;Masculino;49;Arquivado
+545;2024-01-30;Agressão Física;Castro;19:33;Crítica;Feminino;58;Sem suspeitos
+546;2023-07-08;Vandalismo;Pires;21:47;Crítica;Masculino;17;Sem suspeitos
+547;2024-10-28;Estelionato;Teixeira do Norte;23:25;Grave;Feminino;65;Arquivado
+548;2023-03-20;Furto;Fogaça Grande;17:57;Moderada;Não identificado;54;Arquivado
+549;2024-12-23;Sequestro;Cardoso;03:38;Leve;Não identificado;28;Sem suspeitos
+550;2024-12-05;Sequestro;Mendes da Praia;02:17;Leve;Masculino;55;Sem suspeitos
+551;2023-06-27;Furto;Sales de Nogueira;04:04;Crítica;Feminino;45;Sem suspeitos
+552;2023-09-14;Tráfico de Drogas;Nunes do Amparo;03:04;Leve;Masculino;Desconhecida;Arquivado
+553;2023-10-06;Violência Doméstica;Ramos de Jesus;08:25;Grave;Não identificado;Desconhecida;Arquivado
+554;2023-04-24;Violência Doméstica;Ramos;10:49;Moderada;Feminino;59;Arquivado
+555;2024-05-27;Agressão Física;Dias do Sul;18:32;Moderada;Não identificado;17;Arquivado
+556;2023-12-20;Sequestro;Dias;07:00;Leve;Feminino;36;Em andamento
+557;2024-07-01;Vandalismo;Freitas;03:52;Grave;Não identificado;22;Sem suspeitos
+558;2025-01-02;Vandalismo;Correia da Prata;21:35;Grave;Não identificado;63;Em andamento
+559;2023-03-29;Violência Doméstica;Moreira;23:45;Moderada;Feminino;37;Em andamento
+560;2025-02-25;Vandalismo;Oliveira;15:20;Leve;Feminino;42;Em andamento
+561;2023-07-02;Sequestro;Santos de das Neves;17:24;Leve;Masculino;47;Sem suspeitos
+562;2023-11-13;Agressão Física;Pires das Pedras;00:24;Grave;Feminino;51;Concluído
+563;2023-09-06;Roubo;Campos;03:13;Moderada;Masculino;28;Arquivado
+564;2023-10-26;Violência Doméstica;Viana;23:06;Grave;Masculino;17;Em andamento
+565;2024-02-17;Tráfico de Drogas;Cardoso;12:29;Grave;Feminino;15;Arquivado
+566;2025-03-06;Agressão Física;Monteiro da Mata;10:13;Grave;Não identificado;54;Sem suspeitos
+567;2024-04-03;Agressão Física;Pereira;19:33;Moderada;Não identificado;32;Sem suspeitos
+568;2024-09-12;Homicídio;da Costa;15:11;Leve;Feminino;55;Sem suspeitos
+569;2023-04-03;Vandalismo;Lopes;10:48;Crítica;Masculino;24;Arquivado
+570;2023-04-09;Roubo;Moura de Gomes;11:44;Grave;Masculino;52;Arquivado
+571;2024-01-25;Porte Ilegal de Arma;da Paz;04:25;Grave;Masculino;25;Concluído
+572;2024-01-17;Agressão Física;da Mota;23:00;Leve;Não identificado;65;Arquivado
+573;2023-11-13;Agressão Física;Azevedo;18:56;Moderada;Não identificado;31;Concluído
+574;2024-12-04;Furto;da Cruz;07:56;Leve;Masculino;Desconhecida;Em andamento
+575;2023-11-14;Vandalismo;Jesus da Serra;21:52;Grave;Masculino;21;Concluído
+576;2024-03-14;Agressão Física;Moura;14:42;Leve;Não identificado;14;Em andamento
+577;2024-01-26;Sequestro;Caldeira;11:09;Crítica;Não identificado;Desconhecida;Concluído
+578;2024-01-26;Roubo;Barbosa;07:35;Leve;Não identificado;58;Em andamento
+579;2024-11-19;Sequestro;Castro Verde;08:43;Crítica;Masculino;14;Sem suspeitos
+580;2025-02-10;Agressão Física;Teixeira;13:10;Crítica;Masculino;35;Sem suspeitos
+581;2023-09-14;Furto;Gomes;08:15;Crítica;Não identificado;50;Em andamento
+582;2023-10-01;Vandalismo;Aragão;22:05;Grave;Masculino;16;Concluído
+583;2023-11-13;Violência Doméstica;Moreira Paulista;06:20;Moderada;Masculino;31;Concluído
+584;2024-07-20;Vandalismo;Monteiro;02:53;Moderada;Masculino;28;Em andamento
+585;2023-03-17;Sequestro;Oliveira;05:59;Crítica;Feminino;Desconhecida;Concluído
+586;2024-10-18;Sequestro;Pires do Amparo;10:49;Leve;Masculino;22;Concluído
+587;2023-09-11;Sequestro;Silva do Campo;04:29;Crítica;Masculino;Desconhecida;Sem suspeitos
+588;2024-10-21;Furto;Farias Alegre;02:47;Crítica;Masculino;43;Concluído
+589;2024-12-18;Estelionato;Viana;06:51;Grave;Não identificado;22;Concluído
+590;2024-02-26;Porte Ilegal de Arma;Barbosa;21:08;Leve;Não identificado;44;Em andamento
+591;2023-06-02;Homicídio;Mendes;05:07;Crítica;Não identificado;51;Sem suspeitos
+592;2023-05-13;Estelionato;Moura;17:37;Grave;Feminino;65;Em andamento
+593;2024-12-22;Homicídio;Nascimento de Minas;21:50;Leve;Não identificado;54;Sem suspeitos
+594;2024-01-15;Tráfico de Drogas;Barbosa de Nogueira;01:27;Grave;Masculino;34;Arquivado
+595;2024-06-06;Vandalismo;Cavalcanti do Sul;09:31;Crítica;Não identificado;24;Arquivado
+596;2024-10-08;Sequestro;Ramos de Melo;23:01;Grave;Não identificado;54;Arquivado
+597;2024-02-05;Agressão Física;Fernandes do Sul;17:50;Grave;Não identificado;32;Em andamento
+598;2025-03-02;Agressão Física;Barros de Goiás;19:00;Crítica;Não identificado;Desconhecida;Em andamento
+599;2023-04-14;Furto;da Paz;07:26;Crítica;Não identificado;22;Em andamento
+600;2024-05-17;Estelionato;Duarte;00:38;Leve;Feminino;61;Em andamento
+601;2024-11-16;Porte Ilegal de Arma;Lima;03:34;Crítica;Masculino;43;Sem suspeitos
+602;2023-06-10;Roubo;Caldeira;21:19;Moderada;Masculino;40;Sem suspeitos
+603;2024-06-12;Homicídio;Monteiro;01:31;Grave;Feminino;27;Sem suspeitos
+604;2023-10-12;Homicídio;Azevedo;06:03;Moderada;Não identificado;56;Em andamento
+605;2023-06-08;Agressão Física;Aragão;10:48;Crítica;Feminino;21;Arquivado
+606;2024-09-30;Estelionato;Azevedo das Pedras;04:10;Crítica;Feminino;Desconhecida;Sem suspeitos
+607;2024-05-24;Roubo;Costa do Galho;13:19;Moderada;Feminino;Desconhecida;Sem suspeitos
+608;2023-04-08;Roubo;Cunha;09:24;Crítica;Masculino;25;Arquivado
+609;2024-06-29;Homicídio;Ferreira;01:47;Moderada;Não identificado;21;Arquivado
+610;2024-09-22;Agressão Física;Gomes;06:20;Grave;Não identificado;56;Arquivado
+611;2023-03-28;Furto;Silva;19:19;Crítica;Feminino;46;Em andamento
+612;2024-06-25;Homicídio;Ferreira;07:29;Crítica;Masculino;65;Arquivado
+613;2023-10-12;Furto;Peixoto;14:46;Moderada;Não identificado;Desconhecida;Em andamento
+614;2024-07-30;Sequestro;Lopes do Amparo;16:06;Leve;Feminino;Desconhecida;Concluído
+615;2024-11-06;Furto;Monteiro de Araújo;23:34;Crítica;Feminino;53;Concluído
+616;2024-12-04;Roubo;Cardoso da Prata;23:13;Leve;Feminino;Desconhecida;Sem suspeitos
+617;2024-07-20;Tráfico de Drogas;Carvalho;10:33;Crítica;Não identificado;Desconhecida;Arquivado
+618;2024-12-25;Roubo;Moraes de Silveira;01:15;Leve;Masculino;41;Em andamento
+619;2025-01-28;Agressão Física;Barbosa;15:02;Grave;Masculino;Desconhecida;Em andamento
+620;2023-05-06;Estelionato;Gonçalves;13:31;Crítica;Masculino;Desconhecida;Sem suspeitos
+621;2023-05-17;Vandalismo;Jesus Paulista;07:45;Leve;Feminino;33;Sem suspeitos
+622;2023-08-18;Porte Ilegal de Arma;Fogaça das Flores;03:57;Grave;Masculino;63;Em andamento
+623;2024-06-18;Vandalismo;Souza;17:51;Leve;Feminino;65;Sem suspeitos
+624;2023-05-10;Porte Ilegal de Arma;Ribeiro;15:39;Moderada;Masculino;52;Arquivado
+625;2024-05-13;Sequestro;Barbosa;01:24;Moderada;Masculino;55;Arquivado
+626;2023-09-11;Homicídio;Azevedo de Minas;12:37;Leve;Masculino;43;Concluído
+627;2024-09-07;Porte Ilegal de Arma;Gonçalves do Norte;21:20;Crítica;Não identificado;42;Concluído
+628;2024-03-08;Homicídio;da Conceição Paulista;16:39;Leve;Feminino;15;Sem suspeitos
+629;2024-09-21;Roubo;Costa do Oeste;19:40;Crítica;Feminino;41;Concluído
+630;2023-08-03;Sequestro;Rocha;23:17;Leve;Masculino;26;Em andamento
+631;2024-01-10;Agressão Física;Gomes;01:54;Moderada;Masculino;20;Concluído
+632;2024-10-15;Tráfico de Drogas;Barbosa;08:57;Moderada;Não identificado;15;Arquivado
+633;2024-10-25;Agressão Física;Duarte;00:07;Grave;Masculino;57;Em andamento
+634;2023-11-11;Furto;da Mota da Mata;00:42;Crítica;Feminino;51;Sem suspeitos
+635;2024-06-30;Furto;Nascimento;07:35;Grave;Masculino;18;Arquivado
+636;2024-03-11;Violência Doméstica;Gomes;22:50;Moderada;Feminino;29;Sem suspeitos
+637;2023-05-15;Violência Doméstica;Moraes da Mata;13:51;Grave;Não identificado;Desconhecida;Concluído
+638;2024-09-18;Furto;Nogueira;06:47;Moderada;Masculino;52;Concluído
+639;2024-07-26;Porte Ilegal de Arma;Caldeira;19:01;Grave;Masculino;Desconhecida;Concluído
+640;2024-07-23;Vandalismo;Pereira do Sul;21:26;Leve;Masculino;15;Em andamento
+641;2023-08-14;Tráfico de Drogas;Martins;09:05;Moderada;Não identificado;16;Concluído
+642;2024-04-21;Roubo;Santos da Mata;13:05;Grave;Feminino;49;Sem suspeitos
+643;2024-03-03;Sequestro;da Rocha Paulista;12:24;Crítica;Masculino;38;Sem suspeitos
+644;2024-11-27;Estelionato;Rodrigues;20:00;Moderada;Masculino;32;Concluído
+645;2024-01-28;Homicídio;Porto do Amparo;08:44;Grave;Não identificado;Desconhecida;Sem suspeitos
+646;2025-01-25;Vandalismo;Rodrigues de Melo;06:38;Grave;Não identificado;Desconhecida;Em andamento
+647;2024-04-11;Vandalismo;Costa Verde;22:03;Grave;Feminino;57;Em andamento
+648;2024-03-16;Agressão Física;Cavalcanti;21:16;Grave;Não identificado;Desconhecida;Arquivado
+649;2024-04-03;Furto;Gonçalves;23:27;Grave;Masculino;Desconhecida;Concluído
+650;2024-06-01;Homicídio;da Luz;11:21;Leve;Masculino;20;Sem suspeitos
+651;2024-01-14;Agressão Física;Rocha das Pedras;03:33;Moderada;Não identificado;20;Em andamento
+652;2024-02-25;Vandalismo;Santos dos Dourados;05:57;Moderada;Masculino;Desconhecida;Arquivado
+653;2024-11-18;Roubo;Souza;11:10;Crítica;Masculino;42;Concluído
+654;2025-02-22;Roubo;Novaes de Minas;22:46;Moderada;Feminino;Desconhecida;Concluído
+655;2023-09-09;Violência Doméstica;Araújo das Flores;10:53;Crítica;Masculino;Desconhecida;Arquivado
+656;2024-08-31;Agressão Física;da Mota de Silveira;05:09;Crítica;Não identificado;61;Em andamento
+657;2024-09-13;Tráfico de Drogas;Aragão;01:19;Grave;Não identificado;27;Arquivado
+658;2024-09-12;Vandalismo;das Neves;13:08;Leve;Feminino;Desconhecida;Arquivado
+659;2024-08-18;Homicídio;Costa de Pires;18:34;Grave;Masculino;39;Em andamento
+660;2025-02-24;Porte Ilegal de Arma;Carvalho Alegre;11:27;Moderada;Feminino;Desconhecida;Concluído
+661;2023-08-28;Violência Doméstica;Viana Verde;22:03;Grave;Feminino;62;Arquivado
+662;2023-06-01;Agressão Física;Azevedo;03:01;Crítica;Masculino;48;Sem suspeitos
+663;2024-07-20;Porte Ilegal de Arma;Souza;17:55;Crítica;Não identificado;19;Sem suspeitos
+664;2023-06-17;Porte Ilegal de Arma;Cardoso do Galho;07:10;Crítica;Feminino;58;Em andamento
+665;2023-11-14;Vandalismo;Alves;20:12;Crítica;Feminino;64;Sem suspeitos
+666;2024-03-03;Furto;Monteiro Alegre;10:20;Crítica;Masculino;62;Concluído
+667;2023-03-25;Roubo;Lima;00:51;Grave;Não identificado;23;Em andamento
+668;2024-04-14;Furto;Porto;01:34;Grave;Masculino;Desconhecida;Concluído
+669;2023-10-28;Roubo;Ramos;10:35;Leve;Masculino;Desconhecida;Em andamento
+670;2024-04-19;Sequestro;Barros;00:23;Crítica;Não identificado;40;Concluído
+671;2024-10-13;Estelionato;Dias do Sul;12:47;Moderada;Não identificado;Desconhecida;Concluído
+672;2024-08-11;Estelionato;Carvalho;09:43;Moderada;Não identificado;42;Concluído
+673;2025-02-15;Estelionato;Pereira do Norte;18:09;Crítica;Não identificado;Desconhecida;Sem suspeitos
+674;2023-12-05;Agressão Física;da Rocha;20:54;Moderada;Não identificado;31;Sem suspeitos
+675;2024-06-15;Furto;da Mata;21:00;Moderada;Não identificado;45;Concluído
+676;2024-12-14;Sequestro;Moreira Paulista;12:25;Crítica;Masculino;Desconhecida;Arquivado
+677;2023-11-22;Porte Ilegal de Arma;da Mota;02:40;Crítica;Masculino;60;Concluído
+678;2023-10-24;Porte Ilegal de Arma;Araújo de Dias;09:45;Crítica;Não identificado;44;Sem suspeitos
+679;2023-07-26;Estelionato;Rocha da Praia;14:24;Crítica;Feminino;41;Arquivado
+680;2024-06-26;Vandalismo;Rocha das Pedras;15:07;Grave;Masculino;36;Em andamento
+681;2023-07-12;Tráfico de Drogas;Nogueira;17:29;Crítica;Masculino;51;Sem suspeitos
+682;2023-05-08;Agressão Física;Pinto do Galho;18:00;Moderada;Masculino;15;Sem suspeitos
+683;2023-06-27;Roubo;Gomes do Oeste;09:35;Grave;Feminino;27;Arquivado
+684;2024-11-06;Sequestro;Porto;19:24;Crítica;Feminino;52;Em andamento
+685;2024-02-20;Estelionato;Peixoto das Pedras;17:55;Crítica;Masculino;41;Em andamento
+686;2024-01-25;Vandalismo;Moraes;06:08;Moderada;Não identificado;14;Arquivado
+687;2023-11-07;Porte Ilegal de Arma;Azevedo Paulista;10:19;Crítica;Masculino;32;Concluído
+688;2025-02-17;Furto;Mendes;19:41;Grave;Não identificado;56;Sem suspeitos
+689;2023-04-20;Roubo;Cunha;01:29;Leve;Masculino;46;Concluído
+690;2024-02-19;Agressão Física;Cardoso de Lima;15:28;Grave;Masculino;42;Arquivado
+691;2023-07-20;Violência Doméstica;Nogueira de Nunes;04:49;Crítica;Feminino;Desconhecida;Arquivado
+692;2023-11-16;Homicídio;Souza da Mata;00:58;Leve;Masculino;61;Arquivado
+693;2024-11-17;Sequestro;Rocha;00:18;Moderada;Masculino;55;Arquivado
+694;2024-04-16;Agressão Física;das Neves do Galho;03:57;Crítica;Não identificado;24;Arquivado
+695;2024-11-26;Roubo;Silveira de Duarte;17:15;Grave;Não identificado;20;Em andamento
+696;2024-05-17;Estelionato;Rezende;18:50;Grave;Feminino;33;Sem suspeitos
+697;2024-12-09;Violência Doméstica;Rezende;08:13;Leve;Feminino;59;Arquivado
+698;2025-01-20;Vandalismo;Gonçalves da Praia;03:29;Leve;Feminino;45;Arquivado
+699;2023-06-24;Estelionato;Aragão;18:43;Moderada;Feminino;47;Arquivado
+700;2024-12-04;Tráfico de Drogas;da Conceição de Caldeira;18:11;Leve;Feminino;Desconhecida;Concluído
+701;2024-01-27;Porte Ilegal de Arma;Melo;00:24;Grave;Não identificado;Desconhecida;Em andamento
+702;2024-02-27;Homicídio;Souza;02:51;Leve;Não identificado;46;Em andamento
+703;2024-01-21;Sequestro;da Mata do Campo;10:24;Grave;Masculino;23;Concluído
+704;2023-08-18;Furto;Moraes de Nogueira;17:29;Crítica;Não identificado;51;Arquivado
+705;2023-04-04;Violência Doméstica;Rocha do Galho;17:47;Leve;Não identificado;60;Arquivado
+706;2024-11-13;Vandalismo;Peixoto do Amparo;20:34;Grave;Não identificado;40;Concluído
+707;2023-10-03;Roubo;Teixeira de Rocha;09:57;Grave;Não identificado;52;Em andamento
+708;2023-07-29;Estelionato;Dias;09:34;Grave;Feminino;65;Arquivado
+709;2023-04-26;Violência Doméstica;Gomes Grande;22:03;Moderada;Feminino;64;Concluído
+710;2024-02-03;Furto;Nogueira;13:11;Leve;Feminino;21;Em andamento
+711;2023-10-06;Tráfico de Drogas;Jesus Paulista;19:47;Moderada;Masculino;16;Arquivado
+712;2023-07-31;Roubo;da Conceição da Praia;15:30;Leve;Feminino;30;Sem suspeitos
+713;2024-02-03;Vandalismo;Barros;07:53;Crítica;Masculino;55;Em andamento
+714;2024-08-25;Estelionato;Pires;13:07;Crítica;Masculino;55;Sem suspeitos
+715;2024-08-15;Tráfico de Drogas;Correia Paulista;10:03;Leve;Masculino;37;Sem suspeitos
+716;2023-12-20;Furto;Lima do Amparo;13:30;Grave;Não identificado;25;Em andamento
+717;2024-07-05;Furto;Alves;06:45;Grave;Masculino;17;Sem suspeitos
+718;2024-12-05;Tráfico de Drogas;Ferreira;23:56;Crítica;Feminino;17;Concluído
+719;2024-12-09;Agressão Física;Moura do Sul;15:46;Leve;Não identificado;42;Sem suspeitos
+720;2025-01-15;Estelionato;Gonçalves;06:40;Leve;Não identificado;23;Sem suspeitos
+721;2023-05-04;Porte Ilegal de Arma;Rodrigues do Sul;22:17;Grave;Masculino;54;Em andamento
+722;2023-09-10;Violência Doméstica;Azevedo;00:27;Moderada;Não identificado;34;Concluído
+723;2023-04-12;Homicídio;Fogaça da Praia;14:27;Leve;Masculino;34;Concluído
+724;2024-04-07;Estelionato;Vieira de Goiás;22:33;Leve;Feminino;58;Sem suspeitos
+725;2023-08-23;Agressão Física;da Cunha da Prata;20:02;Grave;Masculino;55;Sem suspeitos
+726;2024-01-17;Furto;Souza de Monteiro;18:51;Crítica;Não identificado;23;Concluído
+727;2023-04-05;Agressão Física;da Cunha de Nascimento;12:05;Grave;Feminino;62;Sem suspeitos
+728;2024-01-12;Porte Ilegal de Arma;Santos;20:13;Leve;Masculino;Desconhecida;Em andamento
+729;2024-12-22;Vandalismo;Oliveira;00:12;Crítica;Não identificado;Desconhecida;Sem suspeitos
+730;2024-06-21;Tráfico de Drogas;da Cunha da Praia;04:04;Grave;Masculino;Desconhecida;Arquivado
+731;2023-03-18;Sequestro;Porto;03:05;Crítica;Masculino;21;Arquivado
+732;2023-06-28;Vandalismo;Nascimento de das Neves;01:52;Moderada;Masculino;58;Em andamento
+733;2024-05-23;Roubo;da Paz;09:29;Moderada;Feminino;20;Em andamento
+734;2023-07-15;Homicídio;Dias;04:41;Crítica;Feminino;25;Concluído
+735;2024-12-21;Agressão Física;Barbosa de Cunha;21:33;Grave;Masculino;18;Sem suspeitos
+736;2023-07-06;Homicídio;da Cruz da Prata;05:02;Crítica;Não identificado;50;Em andamento
+737;2024-07-02;Estelionato;Silva;20:17;Moderada;Feminino;59;Em andamento
+738;2024-04-16;Violência Doméstica;Martins;02:53;Moderada;Não identificado;42;Sem suspeitos
+739;2024-05-07;Roubo;Dias;22:30;Grave;Feminino;59;Em andamento
+740;2023-04-15;Violência Doméstica;Aragão do Norte;14:07;Grave;Masculino;Desconhecida;Concluído
+741;2023-07-03;Violência Doméstica;Gonçalves de Goiás;08:28;Grave;Feminino;Desconhecida;Em andamento
+742;2023-12-02;Tráfico de Drogas;Silva de Novaes;23:03;Moderada;Não identificado;Desconhecida;Em andamento
+743;2023-06-21;Sequestro;Silva;18:11;Moderada;Feminino;51;Sem suspeitos
+744;2025-01-15;Furto;Costa;09:45;Leve;Não identificado;62;Arquivado
+745;2023-05-01;Vandalismo;Jesus;11:39;Crítica;Masculino;50;Arquivado
+746;2024-04-12;Vandalismo;da Mata da Praia;09:30;Leve;Não identificado;55;Arquivado
+747;2024-07-04;Roubo;Castro Verde;13:20;Grave;Não identificado;45;Concluído
+748;2024-01-21;Vandalismo;da Cunha do Oeste;23:37;Moderada;Feminino;32;Em andamento
+749;2024-11-24;Homicídio;Porto Grande;00:50;Crítica;Não identificado;Desconhecida;Sem suspeitos
+750;2024-08-13;Estelionato;Moreira;04:06;Leve;Feminino;15;Sem suspeitos
+751;2024-01-10;Roubo;Carvalho;13:31;Crítica;Masculino;43;Em andamento
+752;2024-08-01;Vandalismo;da Rocha;00:21;Moderada;Não identificado;48;Em andamento
+753;2024-02-27;Roubo;Peixoto;08:07;Grave;Feminino;59;Concluído
+754;2024-01-27;Estelionato;Costa;21:28;Crítica;Masculino;64;Arquivado
+755;2024-11-04;Violência Doméstica;Pereira;11:05;Moderada;Feminino;56;Sem suspeitos
+756;2024-06-13;Sequestro;Oliveira;16:27;Leve;Não identificado;51;Sem suspeitos
+757;2025-03-01;Tráfico de Drogas;Barros do Amparo;11:43;Grave;Feminino;23;Em andamento
+758;2025-03-10;Roubo;Azevedo de Nogueira;20:51;Leve;Não identificado;26;Concluído
+759;2023-05-23;Sequestro;Dias;00:33;Crítica;Feminino;64;Concluído
+760;2023-04-21;Estelionato;Silva dos Dourados;17:53;Crítica;Não identificado;47;Sem suspeitos
+761;2023-10-10;Estelionato;Campos;10:13;Grave;Feminino;Desconhecida;Arquivado
+762;2023-06-16;Estelionato;Nogueira;08:11;Grave;Feminino;Desconhecida;Arquivado
+763;2024-07-11;Sequestro;Martins;21:31;Leve;Masculino;Desconhecida;Concluído
+764;2023-07-15;Sequestro;da Conceição;10:28;Moderada;Masculino;Desconhecida;Arquivado
+765;2024-06-03;Sequestro;Carvalho;21:49;Moderada;Masculino;27;Em andamento
+766;2023-07-16;Roubo;Ramos;13:09;Leve;Feminino;Desconhecida;Em andamento
+767;2024-05-20;Violência Doméstica;Jesus da Mata;01:50;Crítica;Não identificado;55;Concluído
+768;2023-05-13;Roubo;Oliveira Alegre;17:49;Moderada;Não identificado;64;Concluído
+769;2023-12-25;Estelionato;Vieira do Sul;11:42;Grave;Não identificado;38;Arquivado
+770;2023-03-25;Vandalismo;das Neves;16:59;Moderada;Masculino;51;Em andamento
+771;2025-03-07;Sequestro;Costela do Galho;08:24;Crítica;Feminino;63;Em andamento
+772;2025-02-25;Sequestro;da Cruz de Oliveira;20:29;Leve;Não identificado;27;Arquivado
+773;2023-10-02;Vandalismo;Gomes do Galho;02:00;Moderada;Não identificado;Desconhecida;Em andamento
+774;2024-04-25;Agressão Física;Pereira;08:57;Crítica;Não identificado;55;Sem suspeitos
+775;2023-10-06;Violência Doméstica;da Conceição de Costela;06:20;Leve;Não identificado;28;Concluído
+776;2024-10-06;Violência Doméstica;Freitas do Sul;15:19;Leve;Masculino;16;Arquivado
+777;2024-04-26;Furto;Peixoto do Galho;00:43;Leve;Masculino;32;Arquivado
+778;2024-11-25;Tráfico de Drogas;Gomes de Minas;17:58;Moderada;Feminino;17;Sem suspeitos
+779;2024-04-07;Violência Doméstica;Almeida de Goiás;17:23;Crítica;Não identificado;37;Sem suspeitos
+780;2024-05-02;Sequestro;Sales de Sales;19:41;Leve;Feminino;19;Sem suspeitos
+781;2023-05-26;Violência Doméstica;Mendes;09:21;Moderada;Feminino;Desconhecida;Arquivado
+782;2023-11-27;Violência Doméstica;Nascimento;21:47;Leve;Masculino;Desconhecida;Em andamento
+783;2024-04-07;Roubo;Almeida de Aragão;08:50;Grave;Feminino;Desconhecida;Em andamento
+784;2023-08-06;Violência Doméstica;Pereira do Oeste;02:42;Crítica;Feminino;54;Em andamento
+785;2024-08-28;Furto;Pereira;16:34;Grave;Feminino;Desconhecida;Concluído
+786;2024-05-01;Porte Ilegal de Arma;Campos de Goiás;09:50;Grave;Masculino;34;Sem suspeitos
+787;2024-11-25;Vandalismo;Mendes Alegre;12:44;Leve;Não identificado;54;Sem suspeitos
+788;2024-01-21;Agressão Física;das Neves Verde;18:37;Crítica;Feminino;52;Em andamento
+789;2024-10-12;Roubo;Cunha;21:51;Moderada;Masculino;65;Arquivado
+790;2024-06-26;Estelionato;das Neves do Galho;01:23;Crítica;Masculino;28;Arquivado
+791;2023-12-28;Estelionato;Costa do Amparo;14:09;Moderada;Masculino;46;Em andamento
+792;2024-04-06;Homicídio;Costela;19:33;Leve;Não identificado;Desconhecida;Sem suspeitos
+793;2024-07-31;Estelionato;Sales;09:18;Moderada;Masculino;57;Em andamento
+794;2023-04-06;Tráfico de Drogas;Cardoso;13:41;Leve;Masculino;29;Arquivado
+795;2024-04-25;Tráfico de Drogas;da Costa;09:53;Moderada;Feminino;Desconhecida;Concluído
+796;2023-08-21;Furto;Gonçalves da Mata;18:09;Grave;Não identificado;62;Sem suspeitos
+797;2024-10-24;Tráfico de Drogas;Nogueira do Campo;02:10;Crítica;Masculino;60;Sem suspeitos
+798;2023-03-27;Agressão Física;Fogaça;15:13;Grave;Não identificado;57;Sem suspeitos
+799;2024-08-27;Tráfico de Drogas;Lopes Paulista;10:11;Grave;Não identificado;Desconhecida;Arquivado
+800;2024-09-09;Porte Ilegal de Arma;Novaes do Campo;03:41;Moderada;Não identificado;17;Concluído
+801;2023-07-04;Estelionato;Ribeiro Grande;20:12;Crítica;Feminino;61;Em andamento
+802;2023-11-29;Furto;da Costa;17:19;Grave;Masculino;59;Em andamento
+803;2023-04-23;Porte Ilegal de Arma;Rodrigues de Teixeira;05:31;Crítica;Não identificado;57;Concluído
+804;2024-05-26;Porte Ilegal de Arma;Teixeira Paulista;07:29;Leve;Não identificado;36;Concluído
+805;2024-05-26;Agressão Física;Barbosa da Praia;20:22;Crítica;Não identificado;Desconhecida;Em andamento
+806;2023-08-21;Sequestro;Rezende;06:10;Leve;Feminino;Desconhecida;Concluído
+807;2024-08-25;Porte Ilegal de Arma;Ferreira da Serra;18:19;Grave;Masculino;33;Arquivado
+808;2025-01-05;Furto;da Costa;15:08;Leve;Feminino;28;Concluído
+809;2024-02-16;Roubo;Azevedo do Campo;07:08;Leve;Masculino;24;Arquivado
+810;2023-08-12;Vandalismo;Cardoso do Campo;17:44;Leve;Não identificado;58;Sem suspeitos
+811;2024-08-26;Homicídio;da Mota;10:36;Moderada;Feminino;22;Concluído
+812;2024-12-27;Estelionato;Almeida;15:22;Crítica;Masculino;41;Concluído
+813;2025-02-10;Sequestro;Costela;08:23;Crítica;Não identificado;42;Sem suspeitos
+814;2024-04-28;Agressão Física;Castro da Serra;13:59;Grave;Masculino;50;Sem suspeitos
+815;2024-10-24;Tráfico de Drogas;Cardoso;11:07;Moderada;Feminino;25;Sem suspeitos
+816;2024-09-17;Porte Ilegal de Arma;Aragão;20:30;Moderada;Masculino;14;Arquivado
+817;2023-09-12;Tráfico de Drogas;Costela Grande;16:07;Grave;Masculino;39;Arquivado
+818;2023-12-19;Homicídio;Correia do Galho;14:53;Grave;Masculino;57;Concluído
+819;2024-05-06;Tráfico de Drogas;Vieira do Amparo;17:50;Moderada;Masculino;15;Concluído
+820;2023-06-15;Agressão Física;Barros de Castro;21:37;Leve;Masculino;53;Sem suspeitos
+821;2024-12-20;Homicídio;Cavalcanti;16:35;Crítica;Masculino;57;Sem suspeitos
+822;2024-03-23;Tráfico de Drogas;das Neves Alegre;10:54;Crítica;Não identificado;63;Concluído
+823;2025-01-24;Tráfico de Drogas;da Paz de Mendes;11:18;Leve;Masculino;Desconhecida;Em andamento
+824;2024-04-01;Violência Doméstica;Viana do Galho;17:29;Moderada;Não identificado;36;Em andamento
+825;2024-09-08;Furto;Lima Verde;23:25;Grave;Masculino;29;Sem suspeitos
+826;2023-04-01;Homicídio;Lima da Praia;10:15;Moderada;Masculino;31;Sem suspeitos
+827;2023-08-25;Roubo;da Paz da Serra;16:21;Crítica;Masculino;16;Arquivado
+828;2023-03-17;Estelionato;da Rosa;22:30;Crítica;Masculino;59;Concluído
+829;2023-11-13;Tráfico de Drogas;Moreira da Mata;11:13;Crítica;Feminino;31;Sem suspeitos
+830;2024-02-22;Estelionato;Fogaça;16:02;Crítica;Não identificado;Desconhecida;Arquivado
+831;2024-02-09;Tráfico de Drogas;Nunes das Flores;06:38;Grave;Feminino;Desconhecida;Em andamento
+832;2024-09-04;Porte Ilegal de Arma;Moraes do Norte;13:37;Crítica;Masculino;32;Arquivado
+833;2023-04-06;Estelionato;Pinto;06:23;Moderada;Feminino;42;Concluído
+834;2023-03-22;Roubo;Rodrigues Alegre;05:25;Moderada;Não identificado;26;Concluído
+835;2024-11-11;Homicídio;Silva de Pires;03:56;Leve;Não identificado;31;Sem suspeitos
+836;2024-12-16;Agressão Física;Farias da Prata;17:29;Moderada;Feminino;55;Arquivado
+837;2023-04-30;Furto;Azevedo;18:01;Grave;Masculino;44;Em andamento
+838;2025-02-14;Porte Ilegal de Arma;Nunes;12:33;Crítica;Feminino;63;Sem suspeitos
+839;2024-06-08;Violência Doméstica;Nascimento do Amparo;19:15;Moderada;Feminino;Desconhecida;Arquivado
+840;2025-02-15;Furto;Barros de Barros;21:02;Crítica;Masculino;Desconhecida;Concluído
+841;2023-05-07;Roubo;Pires de Minas;01:08;Moderada;Feminino;49;Arquivado
+842;2024-05-16;Violência Doméstica;Caldeira Verde;17:27;Moderada;Masculino;53;Arquivado
+843;2025-02-07;Agressão Física;Peixoto das Flores;20:26;Crítica;Masculino;15;Em andamento
+844;2024-01-11;Agressão Física;Martins;17:08;Moderada;Feminino;Desconhecida;Sem suspeitos
+845;2023-08-26;Sequestro;Oliveira;01:58;Moderada;Feminino;24;Sem suspeitos
+846;2024-01-05;Homicídio;da Rocha do Galho;03:51;Grave;Não identificado;65;Em andamento
+847;2024-05-28;Estelionato;Cunha;18:55;Moderada;Feminino;64;Sem suspeitos
+848;2023-05-31;Furto;Jesus;20:17;Crítica;Feminino;Desconhecida;Em andamento
+849;2023-03-15;Agressão Física;da Mata da Praia;19:37;Moderada;Masculino;40;Em andamento
+850;2024-02-16;Porte Ilegal de Arma;Ribeiro;08:03;Moderada;Não identificado;21;Em andamento
+851;2025-03-02;Porte Ilegal de Arma;da Rocha de Goiás;06:53;Moderada;Feminino;Desconhecida;Arquivado
+852;2023-04-16;Estelionato;Lopes;23:31;Moderada;Feminino;48;Em andamento
+853;2024-06-20;Homicídio;Cardoso das Pedras;18:47;Leve;Masculino;Desconhecida;Concluído
+854;2023-10-01;Estelionato;Alves de Vieira;04:33;Crítica;Feminino;64;Sem suspeitos
+855;2023-12-15;Roubo;Castro dos Dourados;02:00;Moderada;Masculino;63;Em andamento
+856;2024-04-27;Furto;Teixeira da Prata;22:09;Crítica;Feminino;Desconhecida;Arquivado
+857;2024-12-04;Agressão Física;Alves da Serra;13:41;Crítica;Não identificado;33;Em andamento
+858;2023-07-23;Porte Ilegal de Arma;Barros de Rezende;00:23;Leve;Não identificado;17;Concluído
+859;2024-04-17;Roubo;Duarte;17:35;Grave;Masculino;40;Sem suspeitos
+860;2024-03-28;Agressão Física;Gomes;09:00;Leve;Feminino;63;Concluído
+861;2023-06-24;Roubo;Nogueira;06:22;Crítica;Não identificado;26;Arquivado
+862;2023-08-24;Roubo;Monteiro de Minas;08:39;Grave;Não identificado;33;Em andamento
+863;2024-12-28;Agressão Física;da Paz;16:36;Grave;Feminino;35;Sem suspeitos
+864;2023-07-20;Porte Ilegal de Arma;Lima de Cunha;00:20;Crítica;Masculino;14;Sem suspeitos
+865;2023-06-22;Porte Ilegal de Arma;Oliveira;04:26;Leve;Não identificado;26;Concluído
+866;2024-12-16;Sequestro;Jesus;13:50;Leve;Feminino;Desconhecida;Arquivado
+867;2024-10-02;Estelionato;Nogueira dos Dourados;17:21;Moderada;Feminino;48;Concluído
+868;2023-10-04;Furto;Silveira Grande;11:01;Moderada;Não identificado;Desconhecida;Sem suspeitos
+869;2024-12-09;Vandalismo;Pires de Lima;20:15;Leve;Masculino;65;Concluído
+870;2023-11-11;Estelionato;Fogaça de Goiás;03:20;Grave;Masculino;55;Em andamento
+871;2023-04-17;Roubo;Barbosa;08:13;Crítica;Masculino;17;Sem suspeitos
+872;2024-07-31;Furto;Costela;14:53;Crítica;Feminino;57;Arquivado
+873;2024-06-09;Homicídio;Peixoto;11:19;Grave;Feminino;47;Arquivado
+874;2024-06-10;Violência Doméstica;Costa;02:57;Grave;Feminino;Desconhecida;Sem suspeitos
+875;2024-04-24;Porte Ilegal de Arma;Moraes das Flores;10:10;Crítica;Feminino;56;Sem suspeitos
+876;2023-12-17;Tráfico de Drogas;Porto;15:49;Crítica;Feminino;60;Sem suspeitos
+877;2024-05-19;Furto;Silva;00:11;Grave;Masculino;Desconhecida;Arquivado
+878;2024-12-22;Violência Doméstica;Lima de Silva;19:18;Leve;Feminino;18;Sem suspeitos
+879;2024-09-10;Vandalismo;Fogaça dos Dourados;20:16;Crítica;Masculino;64;Em andamento
+880;2023-08-16;Agressão Física;da Cunha;03:22;Grave;Não identificado;30;Em andamento
+881;2024-07-07;Homicídio;Cunha Paulista;15:05;Leve;Masculino;35;Em andamento
+882;2024-09-22;Tráfico de Drogas;da Cunha da Serra;23:39;Moderada;Feminino;48;Arquivado
+883;2023-09-17;Agressão Física;Pires de da Mota;21:22;Crítica;Masculino;52;Sem suspeitos
+884;2023-06-13;Homicídio;Cavalcanti;20:06;Leve;Não identificado;49;Em andamento
+885;2024-09-26;Homicídio;Moraes das Pedras;01:07;Grave;Feminino;43;Em andamento
+886;2024-11-22;Estelionato;Alves de Farias;02:37;Crítica;Não identificado;46;Concluído
+887;2023-11-28;Tráfico de Drogas;Correia;10:04;Grave;Feminino;55;Em andamento
+888;2024-03-03;Tráfico de Drogas;Jesus;03:26;Grave;Feminino;24;Em andamento
+889;2025-01-01;Sequestro;Ramos;12:02;Crítica;Masculino;47;Arquivado
+890;2024-11-21;Tráfico de Drogas;Vieira;08:50;Moderada;Masculino;Desconhecida;Concluído
+891;2024-03-30;Violência Doméstica;Mendes do Oeste;22:37;Leve;Masculino;57;Arquivado
+892;2025-02-11;Estelionato;Pinto;05:58;Moderada;Masculino;40;Arquivado
+893;2024-06-06;Sequestro;Oliveira;15:13;Moderada;Não identificado;Desconhecida;Sem suspeitos
+894;2023-05-29;Homicídio;Viana;08:44;Leve;Feminino;14;Sem suspeitos
+895;2024-09-27;Tráfico de Drogas;Martins;17:02;Leve;Masculino;59;Sem suspeitos
+896;2025-01-24;Roubo;Dias das Pedras;18:56;Crítica;Feminino;14;Sem suspeitos
+897;2023-06-21;Furto;Sales do Amparo;03:20;Moderada;Feminino;Desconhecida;Sem suspeitos
+898;2024-04-21;Vandalismo;Campos de Minas;16:40;Crítica;Feminino;15;Em andamento
+899;2023-09-17;Vandalismo;Rocha Verde;04:56;Crítica;Não identificado;Desconhecida;Concluído
+900;2024-12-04;Vandalismo;da Mota;09:38;Grave;Masculino;52;Concluído
+901;2023-04-19;Roubo;Pires do Campo;17:53;Grave;Masculino;Desconhecida;Sem suspeitos
+902;2023-07-28;Vandalismo;Araújo dos Dourados;23:05;Leve;Não identificado;Desconhecida;Em andamento
+903;2025-01-05;Vandalismo;Lopes da Mata;02:28;Leve;Não identificado;53;Sem suspeitos
+904;2023-04-05;Porte Ilegal de Arma;Souza;01:49;Leve;Não identificado;Desconhecida;Em andamento
+905;2025-01-01;Roubo;Rocha;14:27;Leve;Não identificado;49;Arquivado
+906;2023-04-29;Sequestro;Duarte;15:26;Moderada;Não identificado;60;Concluído
+907;2023-06-05;Sequestro;da Mata de Monteiro;05:34;Crítica;Masculino;42;Arquivado
+908;2025-02-22;Vandalismo;Rezende Verde;13:05;Moderada;Masculino;52;Concluído
+909;2023-10-20;Vandalismo;Viana;06:09;Leve;Feminino;38;Em andamento
+910;2024-02-13;Sequestro;Gomes;09:38;Grave;Feminino;Desconhecida;Em andamento
+911;2024-07-19;Vandalismo;Cunha;10:38;Grave;Feminino;38;Concluído
+912;2023-05-30;Vandalismo;Fernandes de Goiás;10:59;Moderada;Feminino;41;Sem suspeitos
+913;2025-02-13;Homicídio;Dias de Duarte;09:32;Moderada;Não identificado;59;Em andamento
+914;2024-03-22;Porte Ilegal de Arma;Cavalcanti do Oeste;00:42;Grave;Masculino;39;Em andamento
+915;2024-08-19;Tráfico de Drogas;Peixoto da Mata;11:50;Leve;Feminino;52;Arquivado
+916;2024-01-19;Porte Ilegal de Arma;Cardoso de Goiás;04:15;Crítica;Não identificado;62;Arquivado
+917;2024-07-24;Sequestro;Duarte;23:36;Leve;Masculino;29;Sem suspeitos
+918;2024-09-11;Vandalismo;Barros de da Mata;12:29;Crítica;Feminino;31;Concluído
+919;2025-01-03;Sequestro;Lopes Grande;03:18;Grave;Feminino;32;Concluído
+920;2024-03-25;Sequestro;Souza;19:17;Crítica;Feminino;34;Sem suspeitos
+921;2024-12-02;Porte Ilegal de Arma;Martins de Minas;01:52;Grave;Masculino;54;Concluído
+922;2024-04-08;Agressão Física;Caldeira;08:35;Grave;Não identificado;21;Sem suspeitos
+923;2025-02-21;Estelionato;da Paz do Campo;01:53;Crítica;Feminino;43;Concluído
+924;2024-03-20;Tráfico de Drogas;Pinto;05:12;Leve;Masculino;23;Sem suspeitos
+925;2023-10-08;Vandalismo;Monteiro da Prata;04:02;Leve;Não identificado;Desconhecida;Arquivado
+926;2023-12-01;Agressão Física;Cardoso Grande;05:54;Moderada;Masculino;37;Arquivado
+927;2024-04-30;Sequestro;Cardoso dos Dourados;03:31;Crítica;Feminino;41;Sem suspeitos
+928;2023-09-14;Furto;da Cunha das Pedras;19:37;Leve;Feminino;57;Concluído
+929;2025-02-19;Estelionato;Novaes;06:01;Leve;Feminino;65;Arquivado
+930;2024-09-28;Violência Doméstica;Santos;08:13;Leve;Feminino;51;Concluído
+931;2024-09-05;Tráfico de Drogas;da Conceição Verde;05:11;Crítica;Feminino;Desconhecida;Concluído
+932;2024-03-21;Sequestro;Duarte do Oeste;01:43;Crítica;Feminino;18;Arquivado
+933;2023-12-20;Vandalismo;Alves;02:12;Crítica;Masculino;34;Concluído
+934;2023-04-02;Porte Ilegal de Arma;Ramos de Costa;17:22;Crítica;Feminino;65;Sem suspeitos
+935;2024-06-29;Furto;Costa;00:20;Grave;Masculino;43;Em andamento
+936;2024-07-03;Agressão Física;Nascimento de Cunha;05:52;Leve;Feminino;58;Em andamento
+937;2023-05-06;Porte Ilegal de Arma;Duarte;19:06;Grave;Masculino;41;Arquivado
+938;2023-07-19;Homicídio;Moraes da Praia;12:25;Leve;Feminino;Desconhecida;Concluído
+939;2024-05-15;Agressão Física;Cavalcanti do Oeste;18:23;Grave;Masculino;Desconhecida;Sem suspeitos
+940;2025-02-13;Estelionato;Melo;09:56;Moderada;Não identificado;17;Em andamento
+941;2024-10-15;Vandalismo;Cunha da Prata;23:17;Moderada;Não identificado;50;Em andamento
+942;2025-02-04;Violência Doméstica;da Mata;12:43;Crítica;Masculino;31;Arquivado
+943;2023-10-17;Porte Ilegal de Arma;Alves;18:04;Crítica;Feminino;47;Concluído
+944;2024-03-31;Tráfico de Drogas;Vieira;10:37;Grave;Masculino;Desconhecida;Concluído
+945;2024-05-19;Agressão Física;Campos da Praia;01:34;Grave;Não identificado;64;Em andamento
+946;2025-01-19;Tráfico de Drogas;Lima;23:01;Grave;Feminino;42;Concluído
+947;2023-08-10;Homicídio;da Cruz Paulista;08:50;Crítica;Não identificado;17;Em andamento
+948;2024-09-05;Sequestro;Novaes;01:28;Moderada;Feminino;15;Em andamento
+949;2023-03-31;Porte Ilegal de Arma;Vieira;14:01;Moderada;Masculino;Desconhecida;Concluído
+950;2023-06-20;Furto;Sales;10:11;Leve;Feminino;Desconhecida;Sem suspeitos
+951;2024-06-29;Roubo;Farias de Fogaça;13:49;Moderada;Masculino;51;Concluído
+952;2024-04-13;Porte Ilegal de Arma;da Rosa;07:03;Moderada;Não identificado;51;Sem suspeitos
+953;2023-08-04;Furto;da Costa das Flores;22:38;Moderada;Não identificado;61;Em andamento
+954;2025-02-07;Sequestro;Correia;18:51;Leve;Masculino;32;Concluído
+955;2024-08-16;Porte Ilegal de Arma;Cavalcanti;21:05;Moderada;Não identificado;Desconhecida;Arquivado
+956;2023-04-20;Estelionato;Dias;23:24;Crítica;Feminino;47;Sem suspeitos
+957;2024-09-13;Vandalismo;da Cruz dos Dourados;18:34;Crítica;Não identificado;28;Concluído
+958;2023-11-20;Furto;Gomes de Minas;01:50;Grave;Não identificado;46;Sem suspeitos
+959;2023-12-01;Estelionato;Costela de Goiás;05:45;Leve;Feminino;36;Em andamento
+960;2024-08-15;Sequestro;Vieira;01:22;Moderada;Feminino;19;Em andamento
+961;2024-11-06;Furto;Moreira;23:11;Grave;Não identificado;34;Concluído
+962;2023-08-30;Estelionato;Ferreira;18:36;Grave;Feminino;61;Arquivado
+963;2024-06-23;Homicídio;Campos Alegre;02:32;Grave;Não identificado;55;Concluído
+964;2023-07-03;Violência Doméstica;Duarte da Mata;08:12;Leve;Feminino;26;Em andamento
+965;2023-06-04;Agressão Física;Silva;22:11;Leve;Masculino;20;Em andamento
+966;2023-12-29;Homicídio;Lima do Norte;20:44;Crítica;Masculino;Desconhecida;Em andamento
+967;2024-01-09;Estelionato;Lopes de Goiás;13:14;Leve;Feminino;44;Arquivado
+968;2023-11-19;Sequestro;da Cunha Grande;10:17;Moderada;Feminino;51;Em andamento
+969;2023-08-07;Porte Ilegal de Arma;Campos;05:29;Crítica;Masculino;40;Sem suspeitos
+970;2023-08-06;Agressão Física;Oliveira;14:33;Leve;Não identificado;Desconhecida;Concluído
+971;2024-03-19;Tráfico de Drogas;Oliveira Paulista;15:30;Grave;Não identificado;21;Em andamento
+972;2024-02-03;Violência Doméstica;Oliveira de Alves;14:58;Crítica;Masculino;64;Em andamento
+973;2024-01-20;Estelionato;Gomes do Oeste;06:44;Moderada;Não identificado;Desconhecida;Em andamento
+974;2024-06-30;Roubo;Ferreira da Mata;23:18;Moderada;Feminino;44;Concluído
+975;2024-10-13;Furto;Costela;11:55;Leve;Não identificado;Desconhecida;Concluído
+976;2023-04-09;Tráfico de Drogas;Aragão Alegre;17:31;Crítica;Não identificado;Desconhecida;Em andamento
+977;2023-12-31;Agressão Física;da Luz;11:10;Leve;Masculino;35;Em andamento
+978;2024-07-12;Vandalismo;Ramos do Sul;03:24;Grave;Masculino;59;Concluído
+979;2024-12-19;Vandalismo;Jesus;14:14;Moderada;Não identificado;19;Arquivado
+980;2024-04-15;Violência Doméstica;Pereira;20:02;Leve;Masculino;57;Em andamento
+981;2025-01-18;Furto;Lopes da Mata;12:14;Leve;Masculino;59;Em andamento
+982;2024-04-18;Violência Doméstica;Jesus da Praia;20:05;Leve;Não identificado;56;Arquivado
+983;2024-12-13;Tráfico de Drogas;Correia;21:59;Grave;Não identificado;62;Em andamento
+984;2024-01-15;Sequestro;Mendes;21:11;Moderada;Não identificado;47;Em andamento
+985;2023-03-20;Sequestro;Porto;22:07;Grave;Feminino;42;Em andamento
+986;2024-04-28;Agressão Física;Moreira do Amparo;13:31;Moderada;Masculino;39;Arquivado
+987;2024-01-10;Tráfico de Drogas;Cunha de Ramos;04:25;Grave;Não identificado;34;Em andamento
+988;2024-07-27;Vandalismo;Correia Paulista;18:39;Leve;Masculino;33;Sem suspeitos
+989;2024-03-15;Porte Ilegal de Arma;Gonçalves da Mata;15:53;Leve;Feminino;57;Concluído
+990;2023-04-23;Furto;Lopes;19:19;Crítica;Não identificado;22;Sem suspeitos
+991;2024-10-05;Violência Doméstica;Barros;06:21;Crítica;Masculino;27;Em andamento
+992;2023-11-24;Estelionato;Costa de Minas;05:43;Leve;Feminino;39;Arquivado
+993;2024-05-04;Estelionato;da Cruz de da Luz;18:17;Moderada;Não identificado;24;Concluído
+994;2023-04-01;Agressão Física;Cardoso;21:06;Leve;Não identificado;26;Arquivado
+995;2024-05-03;Furto;Pereira dos Dourados;16:05;Grave;Feminino;Desconhecida;Arquivado
+996;2023-06-17;Estelionato;Cavalcanti de Goiás;20:48;Moderada;Feminino;Desconhecida;Arquivado
+997;2024-03-19;Violência Doméstica;Fogaça;20:24;Leve;Não identificado;44;Concluído
+998;2025-01-04;Roubo;Carvalho de Rodrigues;11:34;Crítica;Não identificado;62;Sem suspeitos
+999;2024-02-08;Agressão Física;Rezende de Moreira;09:34;Crítica;Não identificado;43;Concluído
+1000;2023-04-07;Roubo;das Neves do Campo;18:14;Crítica;Feminino;49;Arquivado
