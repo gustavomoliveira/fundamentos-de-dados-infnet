@@ -1,0 +1,10 @@
+[
+    {
+        "gravidade_crime":"Violento",
+        "percentual":"76.10%"
+    },
+    {
+        "gravidade_crime":"Não Violento",
+        "percentual":"23.90%"
+    }
+]
