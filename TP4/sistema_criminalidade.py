@@ -87,7 +87,7 @@ if (__name__ == '__main__'):
     arquivo_entrada = definir_arquivo('dados_criminalidade.csv')
     df_criminalidade = criar_df(arquivo_entrada)
     criar_tabela()
-    #inserir_dados(df_criminalidade)
+    inserir_dados(df_criminalidade)
     
     query_1 = """ SELECT COUNT(id) AS total_crimes_mes_marco
             FROM tp4_projeto_bloco.dados_criminalidade
@@ -132,22 +132,20 @@ if (__name__ == '__main__'):
         WHEN HOUR(hora) BETWEEN 6 AND 11 THEN 'Manhã'
         WHEN HOUR(hora) BETWEEN 12 AND 17 THEN 'Tarde'
         WHEN HOUR(hora) BETWEEN 18 AND 23 THEN 'Noite'
-	END AS periodo_dia,
+	END AS periodo_dia_maior_recorrencia,
     COUNT(*) AS quantidade_crimes
     FROM tp4_projeto_bloco.dados_criminalidade
     WHERE hora IS NOT NULL
-    GROUP BY tipo_crime, periodo_dia
+    GROUP BY tipo_crime, periodo_dia_maior_recorrencia
     ORDER BY quantidade_crimes DESC; """
     json_5 = definir_arquivo('questao_5.json')
     gravar_json(query_5, json_5)
 
     query_6 = """ SELECT
-	CASE
-		WHEN gravidade = 'Leve' THEN 'Não Violento'
-		WHEN gravidade = 'Moderada' THEN 'Violento'
-        WHEN gravidade = 'Grave' THEN 'Violento'
-        WHEN gravidade = 'Crítica' THEN 'Violento'
-	END AS gravidade_crime,
+    CASE
+        WHEN gravidade IN ('Leve', 'Moderada') THEN 'Não Violento'
+        WHEN gravidade IN ('Grave', 'Crítica') THEN 'Violento'
+    END AS gravidade_crime,
     CONCAT(ROUND((COUNT(*) / (SELECT COUNT(*) FROM tp4_projeto_bloco.dados_criminalidade) * 100), 2), '%') AS percentual
     FROM tp4_projeto_bloco.dados_criminalidade
     GROUP BY gravidade_crime; """

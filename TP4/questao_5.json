@@ -1,202 +1,202 @@
 [
     {
         "tipo_crime":"Estelionato",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":70
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":35
     },
     {
         "tipo_crime":"Vandalismo",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":70
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":35
     },
     {
         "tipo_crime":"Roubo",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":66
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":33
     },
     {
         "tipo_crime":"Roubo",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":66
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":33
     },
     {
         "tipo_crime":"Agressão Física",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":60
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":30
     },
     {
         "tipo_crime":"Violência Doméstica",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":60
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":30
     },
     {
         "tipo_crime":"Furto",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":60
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":30
     },
     {
         "tipo_crime":"Violência Doméstica",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":56
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":28
     },
     {
         "tipo_crime":"Violência Doméstica",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":56
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":28
     },
     {
         "tipo_crime":"Sequestro",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":56
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":28
     },
     {
         "tipo_crime":"Tráfico de Drogas",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":56
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":28
     },
     {
         "tipo_crime":"Porte Ilegal de Arma",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":56
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":28
     },
     {
         "tipo_crime":"Tráfico de Drogas",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":54
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":27
     },
     {
         "tipo_crime":"Vandalismo",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":54
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":27
     },
     {
         "tipo_crime":"Homicídio",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":54
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":27
     },
     {
         "tipo_crime":"Agressão Física",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":54
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":27
     },
     {
         "tipo_crime":"Roubo",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":54
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":27
     },
     {
         "tipo_crime":"Sequestro",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":52
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":26
     },
     {
         "tipo_crime":"Vandalismo",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":52
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":26
     },
     {
         "tipo_crime":"Tráfico de Drogas",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":52
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":26
     },
     {
         "tipo_crime":"Violência Doméstica",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":50
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":25
     },
     {
         "tipo_crime":"Homicídio",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":48
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":24
     },
     {
         "tipo_crime":"Estelionato",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":46
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":23
     },
     {
         "tipo_crime":"Tráfico de Drogas",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":46
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":23
     },
     {
         "tipo_crime":"Porte Ilegal de Arma",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":46
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":23
     },
     {
         "tipo_crime":"Vandalismo",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":46
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":23
     },
     {
         "tipo_crime":"Estelionato",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":46
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":23
     },
     {
         "tipo_crime":"Sequestro",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":44
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":22
     },
     {
         "tipo_crime":"Furto",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":44
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":22
     },
     {
         "tipo_crime":"Furto",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":42
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":21
     },
     {
         "tipo_crime":"Porte Ilegal de Arma",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":42
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":21
     },
     {
         "tipo_crime":"Agressão Física",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":40
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":20
     },
     {
         "tipo_crime":"Sequestro",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":40
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":20
     },
     {
         "tipo_crime":"Homicídio",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":40
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":20
     },
     {
         "tipo_crime":"Porte Ilegal de Arma",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":38
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":19
     },
     {
         "tipo_crime":"Agressão Física",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":38
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":19
     },
     {
         "tipo_crime":"Estelionato",
-        "periodo_dia":"Tarde",
-        "quantidade_crimes":38
+        "periodo_dia_maior_recorrencia":"Tarde",
+        "quantidade_crimes":19
     },
     {
         "tipo_crime":"Furto",
-        "periodo_dia":"Manhã",
-        "quantidade_crimes":36
+        "periodo_dia_maior_recorrencia":"Manhã",
+        "quantidade_crimes":18
     },
     {
         "tipo_crime":"Homicídio",
-        "periodo_dia":"Noite",
-        "quantidade_crimes":36
+        "periodo_dia_maior_recorrencia":"Noite",
+        "quantidade_crimes":18
     },
     {
         "tipo_crime":"Roubo",
-        "periodo_dia":"Madrugada",
-        "quantidade_crimes":36
+        "periodo_dia_maior_recorrencia":"Madrugada",
+        "quantidade_crimes":18
     }
 ]
